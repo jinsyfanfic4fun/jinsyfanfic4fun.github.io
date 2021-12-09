@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/12/09/john_winchester_journal/</loc>
+    
+    <lastmod>2021-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/12/09/there_will_be_peace_when_you_are_done/</loc>
     
     <lastmod>2021-12-09</lastmod>
@@ -198,6 +207,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/supernatural-resource-novel/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/supernatural-TV-resources/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,13 +222,6 @@
   
   <url>
     <loc>http://example.com/tags/torrent/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/supernatural-resource-novel/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -228,14 +237,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/SUPERNATURAL-TV-RESOURCES/</loc>
+    <loc>http://example.com/categories/SUPERNATURAL-RRESOURCE-NOVEL/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/SUPERNATURAL-RRESOURCE-NOVEL/</loc>
+    <loc>http://example.com/categories/SUPERNATURAL-TV-RESOURCES/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

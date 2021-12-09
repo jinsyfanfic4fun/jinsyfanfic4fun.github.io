@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:33a87adc-293f-4cf8-9972-fdf33b535813</dc:identifier>
+    <dc:title>John Winchester’s Journal</dc:title>
+    <dc:creator opf:file-as="Irvine, Alex" opf:role="aut">Alex Irvine</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2013-10-18</dc:date>
+    <dc:publisher>ePubLibre</dc:publisher>
+    <dc:description>Sam and Dean Winchester know all the secrets their father recorded in his journal. Now you can, too. On November 2, 1983, Sam and Dean Winchester lost their mother to a demonic supernatural force. In the wake of the tragedy, their father, John, set out to learn everything he could about the paranormal evil that lives in the dark corners and on the back roads of America… and how to kill it. In his personal journal, he not only compiled folklore, legend and superstition about all manner of otherworldly enemies but he also recorded his experiences —hunting the creature that killed his wife even as he raised his two sons. Part prequel, part resource guide, John Winchester’s Journal finally gives fans the ultimate companion book for Supernatural. It’s all here: the exorcism Sam and Dean used in “Phantom Traveler,” John’s notes on everything from shapeshifters to Samuel Colt, Dean’s first hunt, Sam’s peewee soccer team… and John’s single-minded pursuit of a growing and deadly evil.</dc:description>
+    <dc:date opf:event="publication">2009-01-01</dc:date>
+    <dc:subject>Relato, Ciencia ficción, Fantástico, Terror</dc:subject>
+    <meta content="0.7.2" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Text/cubierta.xhtml" id="cubierta.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/sinopsis.xhtml" id="sinopsis.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/titulo.xhtml" id="titulo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/info.xhtml" id="info.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/EPL_logo.png" id="EPL_logo.png" media-type="image/png" />
+    <item href="Images/ex_libris.png" id="ex_libris.png" media-type="image/png" />
+    <item href="Text/Acknow.xhtml" id="Acknow.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Images/img001.png" id="img001.png" media-type="image/png" />
+    <item href="Images/img002.png" id="img002.png" media-type="image/png" />
+    <item href="Images/img003.png" id="img003.png" media-type="image/png" />
+    <item href="Images/img004.png" id="img004.png" media-type="image/png" />
+    <item href="Images/img005.png" id="img005.png" media-type="image/png" />
+    <item href="Images/img006.png" id="img006.png" media-type="image/png" />
+    <item href="Images/img007.png" id="img007.png" media-type="image/png" />
+    <item href="Images/img008.png" id="img008.png" media-type="image/png" />
+    <item href="Text/1983.xhtml" id="x1983.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img009.png" id="img009.png" media-type="image/png" />
+    <item href="Images/img010.png" id="img010.png" media-type="image/png" />
+    <item href="Text/1984.xhtml" id="x1984.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img011.png" id="img011.png" media-type="image/png" />
+    <item href="Images/img012.png" id="img012.png" media-type="image/png" />
+    <item href="Text/1985.xhtml" id="x1985.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img013.png" id="img013.png" media-type="image/png" />
+    <item href="Images/img014.png" id="img014.png" media-type="image/png" />
+    <item href="Images/img015.png" id="img015.png" media-type="image/png" />
+    <item href="Text/1986.xhtml" id="x1986.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img016.png" id="img016.png" media-type="image/png" />
+    <item href="Images/img017.png" id="img017.png" media-type="image/png" />
+    <item href="Text/1987.xhtml" id="x1987.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img018.png" id="img018.png" media-type="image/png" />
+    <item href="Images/img019.png" id="img019.png" media-type="image/png" />
+    <item href="Images/img020.png" id="img020.png" media-type="image/png" />
+    <item href="Images/img021.png" id="img021.png" media-type="image/png" />
+    <item href="Text/1988.xhtml" id="x1988.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img022.png" id="img022.png" media-type="image/png" />
+    <item href="Images/img025.png" id="img025.png" media-type="image/png" />
+    <item href="Images/img023.png" id="img023.png" media-type="image/png" />
+    <item href="Images/img024.png" id="img024.png" media-type="image/png" />
+    <item href="Images/img026.png" id="img026.png" media-type="image/png" />
+    <item href="Images/img027.png" id="img027.png" media-type="image/png" />
+    <item href="Images/img028.png" id="img028.png" media-type="image/png" />
+    <item href="Images/img029.png" id="img029.png" media-type="image/png" />
+    <item href="Images/img030.png" id="img030.png" media-type="image/png" />
+    <item href="Images/img031.png" id="img031.png" media-type="image/png" />
+    <item href="Images/img032.png" id="img032.png" media-type="image/png" />
+    <item href="Images/img033.png" id="img033.png" media-type="image/png" />
+    <item href="Text/1989.xhtml" id="x1989.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img034.png" id="img034.png" media-type="image/png" />
+    <item href="Images/img035.png" id="img035.png" media-type="image/png" />
+    <item href="Text/1990.xhtml" id="x1990.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img036.png" id="img036.png" media-type="image/png" />
+    <item href="Images/img037.png" id="img037.png" media-type="image/png" />
+    <item href="Images/img038.png" id="img038.png" media-type="image/png" />
+    <item href="Images/img039.png" id="img039.png" media-type="image/png" />
+    <item href="Images/img040.png" id="img040.png" media-type="image/png" />
+    <item href="Fonts/SFFoxboroScriptBoldItalic.ttf" id="SFFoxboroScriptBoldItalic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/SFFoxboroScriptBold.ttf" id="SFFoxboroScriptBold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/SFFoxboroScriptItalic.ttf" id="SFFoxboroScriptItalic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/SFFoxboroScript.ttf" id="SFFoxboroScript.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/img041.png" id="img041.png" media-type="image/png" />
+    <item href="Images/img042.png" id="img042.png" media-type="image/png" />
+    <item href="Images/img044.png" id="img044.png" media-type="image/png" />
+    <item href="Images/img045.png" id="img045.png" media-type="image/png" />
+    <item href="Text/1991.xhtml" id="x1991.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img046.png" id="img046.png" media-type="image/png" />
+    <item href="Images/img047.png" id="img047.png" media-type="image/png" />
+    <item href="Text/1992.xhtml" id="x1992.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img048.png" id="img048.png" media-type="image/png" />
+    <item href="Images/img049.png" id="img049.png" media-type="image/png" />
+    <item href="Images/img050.png" id="img050.png" media-type="image/png" />
+    <item href="Images/cross.png" id="cross.png" media-type="image/png" />
+    <item href="Images/img051.png" id="img051.png" media-type="image/png" />
+    <item href="Images/img052.png" id="img052.png" media-type="image/png" />
+    <item href="Images/img053.png" id="img053.png" media-type="image/png" />
+    <item href="Text/1993.xhtml" id="x1993.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img054.png" id="img054.png" media-type="image/png" />
+    <item href="Images/img055.png" id="img055.png" media-type="image/png" />
+    <item href="Images/img056.png" id="img056.png" media-type="image/png" />
+    <item href="Images/img057.png" id="img057.png" media-type="image/png" />
+    <item href="Images/img058.png" id="img058.png" media-type="image/png" />
+    <item href="Images/img060.png" id="img060.png" media-type="image/png" />
+    <item href="Images/img059.png" id="img059.png" media-type="image/png" />
+    <item href="Images/img061.png" id="img061.png" media-type="image/png" />
+    <item href="Images/img062.png" id="img062.png" media-type="image/png" />
+    <item href="Images/img063.jpg" id="img063.jpg" media-type="image/jpeg" />
+    <item href="Text/1994.xhtml" id="x1994.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Symbols.xhtml" id="Symbols.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img064.png" id="img064.png" media-type="image/png" />
+    <item href="Images/img065.png" id="img065.png" media-type="image/png" />
+    <item href="Images/img066.png" id="img066.png" media-type="image/png" />
+    <item href="Images/img067.png" id="img067.png" media-type="image/png" />
+    <item href="Text/1995.xhtml" id="x1995.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img068.png" id="img068.png" media-type="image/png" />
+    <item href="Images/img069.png" id="img069.png" media-type="image/png" />
+    <item href="Fonts/bwhebb.ttf" id="bwhebb.ttf" media-type="application/x-font-ttf" />
+    <item href="Text/1996.xhtml" id="x1996.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img070.png" id="img070.png" media-type="image/png" />
+    <item href="Images/img071.png" id="img071.png" media-type="image/png" />
+    <item href="Images/img072.png" id="img072.png" media-type="image/png" />
+    <item href="Images/img073.png" id="img073.png" media-type="image/png" />
+    <item href="Images/img074.png" id="img074.png" media-type="image/png" />
+    <item href="Images/img075.png" id="img075.png" media-type="image/png" />
+    <item href="Images/img076.png" id="img076.png" media-type="image/png" />
+    <item href="Images/img077.png" id="img077.png" media-type="image/png" />
+    <item href="Images/img078.png" id="img078.png" media-type="image/png" />
+    <item href="Images/img079.png" id="img079.png" media-type="image/png" />
+    <item href="Text/1997.xhtml" id="x1997.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img080.png" id="img080.png" media-type="image/png" />
+    <item href="Images/img081.png" id="img081.png" media-type="image/png" />
+    <item href="Images/img085.png" id="img085.png" media-type="image/png" />
+    <item href="Images/img082.png" id="img082.png" media-type="image/png" />
+    <item href="Images/img083.png" id="img083.png" media-type="image/png" />
+    <item href="Images/img084.png" id="img084.png" media-type="image/png" />
+    <item href="Images/img086.png" id="img086.png" media-type="image/png" />
+    <item href="Images/img087.png" id="img087.png" media-type="image/png" />
+    <item href="Images/img088.png" id="img088.png" media-type="image/png" />
+    <item href="Images/img089.png" id="img089.png" media-type="image/png" />
+    <item href="Images/img090.png" id="img090.png" media-type="image/png" />
+    <item href="Images/img091.png" id="img091.png" media-type="image/png" />
+    <item href="Images/img092.png" id="img092.png" media-type="image/png" />
+    <item href="Images/img093.png" id="img093.png" media-type="image/png" />
+    <item href="Text/1998.xhtml" id="x1998.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img095.png" id="img095.png" media-type="image/png" />
+    <item href="Images/img094.png" id="img094.png" media-type="image/png" />
+    <item href="Images/img097.png" id="img097.png" media-type="image/png" />
+    <item href="Images/img098.png" id="img098.png" media-type="image/png" />
+    <item href="Images/img099.png" id="img099.png" media-type="image/png" />
+    <item href="Images/img100.png" id="img100.png" media-type="image/png" />
+    <item href="Images/img101.png" id="img101.png" media-type="image/png" />
+    <item href="Images/img102.png" id="img102.png" media-type="image/png" />
+    <item href="Images/img104.png" id="img104.png" media-type="image/png" />
+    <item href="Images/img105.png" id="img105.png" media-type="image/png" />
+    <item href="Images/img106.png" id="img106.png" media-type="image/png" />
+    <item href="Images/img103.png" id="img103.png" media-type="image/png" />
+    <item href="Text/1999.xhtml" id="x1999.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img107.png" id="img107.png" media-type="image/png" />
+    <item href="Images/img108.png" id="img108.png" media-type="image/png" />
+    <item href="Images/img109.png" id="img109.png" media-type="image/png" />
+    <item href="Images/img110.png" id="img110.png" media-type="image/png" />
+    <item href="Images/img111.png" id="img111.png" media-type="image/png" />
+    <item href="Images/img112.png" id="img112.png" media-type="image/png" />
+    <item href="Images/img113.png" id="img113.png" media-type="image/png" />
+    <item href="Images/img114.png" id="img114.png" media-type="image/png" />
+    <item href="Images/img115.png" id="img115.png" media-type="image/png" />
+    <item href="Images/img116.png" id="img116.png" media-type="image/png" />
+    <item href="Images/img117.png" id="img117.png" media-type="image/png" />
+    <item href="Text/2000.xhtml" id="x2000.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img118.png" id="img118.png" media-type="image/png" />
+    <item href="Images/img119.png" id="img119.png" media-type="image/png" />
+    <item href="Images/img120.png" id="img120.png" media-type="image/png" />
+    <item href="Images/img121.png" id="img121.png" media-type="image/png" />
+    <item href="Images/img122.png" id="img122.png" media-type="image/png" />
+    <item href="Images/img123.png" id="img123.png" media-type="image/png" />
+    <item href="Text/2001.xhtml" id="x2001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img124.png" id="img124.png" media-type="image/png" />
+    <item href="Images/img125.png" id="img125.png" media-type="image/png" />
+    <item href="Text/2002.xhtml" id="x2002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img126.png" id="img126.png" media-type="image/png" />
+    <item href="Images/img127.png" id="img127.png" media-type="image/png" />
+    <item href="Images/img128.png" id="img128.png" media-type="image/png" />
+    <item href="Images/img129.png" id="img129.png" media-type="image/png" />
+    <item href="Images/img130.png" id="img130.png" media-type="image/png" />
+    <item href="Text/2003.xhtml" id="x2003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img131.png" id="img131.png" media-type="image/png" />
+    <item href="Images/img132.png" id="img132.png" media-type="image/png" />
+    <item href="Images/img133.png" id="img133.png" media-type="image/png" />
+    <item href="Images/img134.png" id="img134.png" media-type="image/png" />
+    <item href="Images/img135.png" id="img135.png" media-type="image/png" />
+    <item href="Images/img136.png" id="img136.png" media-type="image/png" />
+    <item href="Images/img137.png" id="img137.png" media-type="image/png" />
+    <item href="Images/img138.png" id="img138.png" media-type="image/png" />
+    <item href="Text/2004.xhtml" id="x2004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/img139.png" id="img139.png" media-type="image/png" />
+    <item href="Images/img140.png" id="img140.png" media-type="image/png" />
+    <item href="Images/img141.png" id="img141.png" media-type="image/png" />
+    <item href="Images/img142.png" id="img142.png" media-type="image/png" />
+    <item href="Images/img143.png" id="img143.png" media-type="image/png" />
+    <item href="Images/img144.png" id="img144.png" media-type="image/png" />
+    <item href="Text/2005.xhtml" id="x2005.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cubierta.xhtml" />
+    <itemref idref="sinopsis.xhtml" />
+    <itemref idref="titulo.xhtml" />
+    <itemref idref="info.xhtml" />
+    <itemref idref="x1983.xhtml" />
+    <itemref idref="x1984.xhtml" />
+    <itemref idref="x1985.xhtml" />
+    <itemref idref="x1986.xhtml" />
+    <itemref idref="x1987.xhtml" />
+    <itemref idref="x1988.xhtml" />
+    <itemref idref="x1989.xhtml" />
+    <itemref idref="x1990.xhtml" />
+    <itemref idref="x1991.xhtml" />
+    <itemref idref="x1992.xhtml" />
+    <itemref idref="x1993.xhtml" />
+    <itemref idref="x1994.xhtml" />
+    <itemref idref="Symbols.xhtml" />
+    <itemref idref="x1995.xhtml" />
+    <itemref idref="x1996.xhtml" />
+    <itemref idref="x1997.xhtml" />
+    <itemref idref="x1998.xhtml" />
+    <itemref idref="x1999.xhtml" />
+    <itemref idref="x2000.xhtml" />
+    <itemref idref="x2001.xhtml" />
+    <itemref idref="x2002.xhtml" />
+    <itemref idref="x2003.xhtml" />
+    <itemref idref="x2004.xhtml" />
+    <itemref idref="x2005.xhtml" />
+    <itemref idref="Acknow.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cubierta.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
