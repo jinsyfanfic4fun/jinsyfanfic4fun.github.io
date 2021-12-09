@@ -219,13 +219,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/12x5-The-One-You-ve-Been-Waiting-For/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/7x02-Time-After-Time/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -261,14 +254,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/7x05-Shut-Up-Dr-Phil/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/7x06-Slash-Fiction/</loc>
+    <loc>http://example.com/tags/12x5-The-One-You-ve-Been-Waiting-For/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -283,20 +269,6 @@
   
   <url>
     <loc>http://example.com/tags/12x12-Twigs-Twine-Tasha-Banes/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/10x08-Hibbing-911/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/10x09-The-Things-We-Left-Behind/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -338,6 +310,20 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/7x05-Shut-Up-Dr-Phil/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/7x06-Slash-Fiction/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/supernatural-resource-novel/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -346,6 +332,20 @@
   
   <url>
     <loc>http://example.com/tags/John-Winchester-s-Journal/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/season-5/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/season-6/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -366,14 +366,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/season-5/</loc>
+    <loc>http://example.com/tags/10x08-Hibbing-911/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/season-6/</loc>
+    <loc>http://example.com/tags/10x09-The-Things-We-Left-Behind/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
