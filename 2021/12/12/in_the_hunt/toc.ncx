@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="b4ce2b1d-210f-44e6-990f-984872e4996d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.35)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>In the Hunt: Unauthorized Essays on Supernatural</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="4c0e4007-d184-4c61-8196-0c67e6c91546" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6b9a644f-d6f8-48aa-b8da-69f29e2dc741" playOrder="2">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="9b962689-28df-41a0-b44a-6c263c1591a8" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="23751b77-3dc0-40fc-8756-9909da057b2a" playOrder="4">
+      <navLabel>
+        <text>“WE’RE NOT EXACTLY THE BRADYS”</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e6f3bae4-66ed-4629-b128-5d88dc7af2dc" playOrder="5">
+      <navLabel>
+        <text>THE BURDEN OF BEING SAMMY - (A Parenthetical Discussion of Self-Perception ...</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="111ed30c-fc0e-4513-a706-cc0df952a679" playOrder="6">
+      <navLabel>
+        <text>WHAT’S SUPERNATURAL ABOUT SUPERNATURAL?</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_008.html"/>
+      <navPoint class="chapter" id="d2aa0969-02a9-42bf-9d43-57e6ce68ffc0" playOrder="7">
+        <navLabel>
+          <text>SUPERNATURAL AND THE SUPERNATURAL</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="5ab26bc5-a0f0-44a3-9f1b-2816435b54be" playOrder="8">
+        <navLabel>
+          <text>SUPERNATURAL AS HORROR</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_010.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="82826be6-7239-49ff-89f4-936931dda5fb" playOrder="9">
+      <navLabel>
+        <text>HORROR, HUMANITY, AND THE DEMON IN THE MIRROR</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_011.html"/>
+      <navPoint class="chapter" id="359a257d-5b86-4117-9546-9f157e28b952" playOrder="10">
+        <navLabel>
+          <text>MONSTERS AND METAPHORS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="31212631-d587-4249-88d3-d00d4f308dd3" playOrder="11">
+        <navLabel>
+          <text>IS SUPERNATURAL ATHEISTIC?</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="4df55c2f-1fe1-421f-8eff-922ffa4c27ab" playOrder="12">
+        <navLabel>
+          <text>THE DEMON IN THE MIRROR</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="f1e5f5d4-051f-4b53-a309-8caae1708d16" playOrder="13">
+        <navLabel>
+          <text>“NOBODY’S KILLING ANY VIRGINS!”</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_015.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="d00da15d-0192-4cad-bf86-3741b9dbc58a" playOrder="14">
+      <navLabel>
+        <text>GOOD AND EVIL IN THE WORLD OF SUPERNATURAL</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_016.html"/>
+      <navPoint class="chapter" id="2c2615ed-33d1-4d22-bc88-65c0fc6946c0" playOrder="15">
+        <navLabel>
+          <text>“OF COURSE YOU SHOULD BE AFRAID OF THE DARK”: EVIL ON SUPERNATURAL</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_017.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="26253562-ecc5-4250-a31b-efec2943b4a7" playOrder="16">
+        <navLabel>
+          <text>“THEY’RE EVERYWHERE”: AZAZEL, LILITH, AND OTHER DEMONS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="6b0b27bb-92d4-4867-89f0-c866e175a6cf" playOrder="17">
+        <navLabel>
+          <text>“LUCIFER ACTUALLY MEANS LIGHT BRINGER”: SAM WINCHESTER AS THE MORNING STAR</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="72601c3b-7513-45c8-9ffb-425a3525cd3b" playOrder="18">
+        <navLabel>
+          <text>“IF YOU KNOW EVIL’S OUT THERE, HOW CAN YOU NOT BELIEVE GOOD’S OUT THERE, TOO?”</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="e664d43e-fd74-4f19-9ab9-e71964e6eff9" playOrder="19">
+        <navLabel>
+          <text>“ANY FLUFFY WHITE WING FEATHERS?”: THE EXISTENCE OF ANGELS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_021.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="e10fc607-83f8-49e3-94d9-39233526e06a" playOrder="20">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_022.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="b9126c89-94bc-4b0b-a20e-507f49939690" playOrder="21">
+      <navLabel>
+        <text>SYMPATHY FOR THE DEVILS</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_023.html"/>
+      <navPoint class="chapter" id="2539f521-b69a-498c-97a3-8bbd4c857eed" playOrder="22">
+        <navLabel>
+          <text>ALL ABOUT THE DRAMA</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_024.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="2cb2254f-7d3f-437c-9c3f-3c7326782c88" playOrder="23">
+        <navLabel>
+          <text>METAPHORICALLY SPOOKING</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_025.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="e6bb2efd-2387-48fe-a6b1-ea9da0fbdcec" playOrder="24">
+        <navLabel>
+          <text>LUCIFER’S FALLEN, AND HE CAN’T GET UP</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="7fc6bfc2-7af6-4064-881f-2013b2ec7dbc" playOrder="25">
+        <navLabel>
+          <text>REHAB FOR MONSTERS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_027.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="b386c76d-5e22-4a7a-8484-d487b1f3d138" playOrder="26">
+        <navLabel>
+          <text>SUPERNATURAL EVOLUTION</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="4c6f0fb5-4c7d-4864-a386-b93c3c57761c" playOrder="27">
+        <navLabel>
+          <text>FRIENDS OF THE DEVILS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_029.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="f2e25484-8404-4bcc-89a2-65de4f07eca8" playOrder="28">
+      <navLabel>
+        <text>DEAN WINCHESTER: BAD-ASS . . . OR SOCCER MOM?</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="e49e4723-3f1c-4e24-8f1d-98aea6a976ec" playOrder="29">
+      <navLabel>
+        <text>“WE’VE GOT WORK TO DO” - Sacrifice, Heroism, and Sam and Dean Winchester</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="86b5c598-8f81-4111-be66-71cce46d375b" playOrder="30">
+      <navLabel>
+        <text>A POWERFUL NEED - Heroism, Winchester-Style</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="cda7a99b-6441-4da0-b724-7d14cef9c6d1" playOrder="31">
+      <navLabel>
+        <text>BUFFY THE VAMPIRE SLAYER, JO THE MONSTER KILLER - Supernatural’s Excluded Heroines</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_033.html"/>
+      <navPoint class="chapter" id="a301abab-0ef8-4142-9515-2d2a6c7a91f4" playOrder="32">
+        <navLabel>
+          <text>THE GUY WITH A CAR, THE GIRL IN A GRAVE</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_034.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="45f376ce-f5f2-4cc8-b7d2-2aece1eb9167" playOrder="33">
+        <navLabel>
+          <text>JO HARVELLE</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_035.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="c2605882-b29b-41f1-9539-14d7cbb1aa66" playOrder="34">
+      <navLabel>
+        <text>SPREADING DISASTER - Gender in the Supernatural Universe</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_036.html"/>
+      <navPoint class="chapter" id="4dbbac64-9c77-4928-957a-dafcc735b8b6" playOrder="35">
+        <navLabel>
+          <text>I: KANSAS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_037.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="b01756de-53c6-4544-9c9d-fdb02e1cab96" playOrder="36">
+        <navLabel>
+          <text>II: THE CHALICE OF BLOOD</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_038.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="e93f42b8-e883-4b8e-9d1b-1e2c6d4942a5" playOrder="37">
+        <navLabel>
+          <text>III: THE DOUBLE</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_039.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="e3d2f335-abad-4f29-a3ae-878e5fb03c56" playOrder="38">
+        <navLabel>
+          <text>IV: THE CAR, THE COLT, &amp; THE KNIFE</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_040.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="6d326e1d-2c01-467b-bac9-e07e62eaff9f" playOrder="39">
+        <navLabel>
+          <text>V: THE RUNAWAY &amp; THE CROSSROADS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_041.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="274b3e99-1446-4671-81e6-ca097070b842" playOrder="40">
+      <navLabel>
+        <text>WHO THREW MOMMA ON THE CEILING? - Analyzing Supernatural’s Primal Scene of Trauma</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_042.html"/>
+      <navPoint class="chapter" id="04be4558-c8c3-4e2f-82a5-057cebc49f19" playOrder="41">
+        <navLabel>
+          <text>A NOTE ABOUT MYTH AND PSYCHOLOGY</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_043.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="1a117106-5089-4102-a950-1d024f57f839" playOrder="42">
+        <navLabel>
+          <text>“MOM ON FIRE ON THE CEILING”-A VIEW FROM THE CRIB</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_044.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="d11f1921-4319-4751-bd08-177b9deffa7c" playOrder="43">
+        <navLabel>
+          <text>BRAVE LITTLE SOLDIERS: SAM AND DEAN AS MOTHERLESS HEROES</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_045.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="29391a2f-0954-4943-aec1-4afcad70b3f5" playOrder="44">
+        <navLabel>
+          <text>HUNTING: SUPERNATURAL’S QUEST FOR A NEW AMERICAN MYTHOLOGY</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_046.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="2b1eac3f-d518-41fd-92a4-2eafdac15cb3" playOrder="45">
+        <navLabel>
+          <text>CONCLUSION: YES, CHICK-FLICK MOMENTS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_047.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="b03e6a38-a1ae-482c-93b0-6cc92272b83f" playOrder="46">
+      <navLabel>
+        <text>SCARY JUST GOT SEXY - Transgression in Supernatural and Its Fanfiction</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="1c587567-1f65-49e6-8d2a-cb6c197f220a" playOrder="47">
+      <navLabel>
+        <text>BLUE COLLAR GHOST HUNTERS</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_049.html"/>
+      <navPoint class="chapter" id="7d77dcb0-81f9-41d5-a60b-c9f050fccb22" playOrder="48">
+        <navLabel>
+          <text>A LITTLE HISTORY</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="47bd8083-e76f-4846-8450-b497970a0cae" playOrder="49">
+        <navLabel>
+          <text>HUNTING ON THE CHEAP</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_051.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="9238b78e-2eea-4375-8265-e18fab473c32" playOrder="50">
+        <navLabel>
+          <text>HITTING THE ROAD</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_058.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="a0f1a2f4-d790-4c61-a330-7a7e8fbbdc07" playOrder="51">
+      <navLabel>
+        <text>A SUPERNATURAL LOVE STORY</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_059.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ecc2d671-7db8-424f-b5f6-860a57d5467f" playOrder="52">
+      <navLabel>
+        <text>BACK IN BLACK</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_060.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0c47d226-07f6-40f3-9446-c291091f6349" playOrder="53">
+      <navLabel>
+        <text>RIDING DOWN THE HIGHWAY - Why the Impala Is the Third Main Character</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_061.html"/>
+      <navPoint class="chapter" id="fa4aaaaa-ae17-4935-bca4-56db84fedd4a" playOrder="54">
+        <navLabel>
+          <text>THE CONNECTION TO THE PAST</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_062.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="05c56c0a-815e-4e3a-bf23-ac1b40b642ca" playOrder="55">
+        <navLabel>
+          <text>THE IMPALA AS LEGACY</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_063.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="bde8b2c8-abda-45f8-8b21-18870cdc69f2" playOrder="56">
+        <navLabel>
+          <text>THE CONNECTION TO THE JOB</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_064.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="b898a469-2123-48e8-a4e4-5512bbe56d81" playOrder="57">
+        <navLabel>
+          <text>THE CONNECTION TO DEAN</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_065.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="1f02b713-f28f-47dc-ae1d-2ed615170d7d" playOrder="58">
+      <navLabel>
+        <text>JOHN WINCHESTER AND THE MAGIC BULLET THEORY</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_066.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="282a295a-b06d-4f7c-be30-d16899bf611e" playOrder="59">
+      <navLabel>
+        <text>THE EVILS OF HATING . . . UM, EVIL - What Gordon Walker Did Wrong and Why We ...</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_067.html"/>
+      <navPoint class="chapter" id="d46b6397-d14d-4404-86cb-6f2ccc8cd18b" playOrder="60">
+        <navLabel>
+          <text>BUT THEY’RE GOOD VAMPIRES!</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_068.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="44b338eb-5370-4dc3-9091-05883f1c3d86" playOrder="61">
+        <navLabel>
+          <text>TARGETING A WINCHESTER WON’T WIN YOU FRIENDS</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_069.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="127abd5e-1cde-410e-bf98-ecc00bd7ce0c" playOrder="62">
+        <navLabel>
+          <text>BECOMING THE MONSTER (FOR REAL)</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_070.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="017b19fc-24f2-41fe-8838-2f45b29ca540" playOrder="63">
+      <navLabel>
+        <text>ANOTHER ROADSIDE ATTRACTION - The Role of the Trickster in Supernatural</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_071.html"/>
+      <navPoint class="chapter" id="9b7ef9f7-8365-4cdb-8b72-162a4872daef" playOrder="64">
+        <navLabel>
+          <text>MAKING MISCHIEF</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_072.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="d4f0ff75-61a1-4f5d-ab67-5ff3bb204268" playOrder="65">
+        <navLabel>
+          <text>TALES AND STORYTELLING</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_073.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="be9110fe-4b2c-4936-9c53-3b17389add16" playOrder="66">
+        <navLabel>
+          <text>NUGENT. TED NUGENT.</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_074.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="240e2cfe-6316-48b0-b65c-eccc538ff828" playOrder="67">
+        <navLabel>
+          <text>IT’S NOT SUCH A WONDERFUL LIFE</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_075.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="fa068aab-fc59-4d5c-b64c-b2cf24f8e7f1" playOrder="68">
+        <navLabel>
+          <text>WHAT’S UP NEXT, DOC?</text>
+        </navLabel>
+        <content src="In_the_Hunt_split_076.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="508c16d2-dd63-4df6-b919-4b55c643e8c1" playOrder="69">
+      <navLabel>
+        <text>KEEPERS OF THE LORE</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_077.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d8278b2c-9cb3-4c43-9c10-789f03fc7d4c" playOrder="70">
+      <navLabel>
+        <text>GHOULS IN CYBERSPACE - Supernatural Sources in the Modern, Demon-Blogging World</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_078.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="56f634e5-de17-4e67-88bb-f026adbb112c" playOrder="71">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_079.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="774e28eb-a86a-4401-a6e3-a866770718e0" playOrder="72">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="In_the_Hunt_split_081.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
