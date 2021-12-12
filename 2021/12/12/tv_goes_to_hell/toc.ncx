@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta name="dtb:uid" content="0000000000000" />
+		<meta name="dtb:depth" content="1" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>TV Goes to Hell: An Unofficial Road Map of Supernatural</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint-chapter0000" playOrder="0">
+			<navLabel>
+				<text>Cover</text>
+			</navLabel>
+			<content src="Text/chapter0000.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0001" playOrder="1">
+			<navLabel>
+				<text>Title Page</text>
+			</navLabel>
+			<content src="Text/chapter0001.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0002" playOrder="2">
+			<navLabel>
+				<text>Dedication</text>
+			</navLabel>
+			<content src="Text/chapter0002.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0003" playOrder="3">
+			<navLabel>
+				<text>Acknowledgments</text>
+			</navLabel>
+			<content src="Text/chapter0003.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0004" playOrder="4">
+			<navLabel>
+				<text>Introduction — Then: The Road So Far (Stacey Abbott)</text>
+			</navLabel>
+			<content src="Text/chapter0004.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0005" playOrder="5">
+			<navLabel>
+				<text>Part 1 — “Bon Jovi rocks . . . on occasion”: Comedy and Music</text>
+			</navLabel>
+			<content src="Text/chapter0005.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0006" playOrder="6">
+			<navLabel>
+				<text>Rabbits’ Feet and Spleen Juice: The Comic Strategies of TV Horror (Stacey Abbott)</text>
+			</navLabel>
+			<content src="Text/chapter0006.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0007" playOrder="7">
+			<navLabel>
+				<text>Two Greasers and a Muscle Car: Music and Character Development in Supernatural (Stan Beeler)</text>
+			</navLabel>
+			<content src="Text/chapter0007.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0008" playOrder="8">
+			<navLabel>
+				<text>Part 2 — Skin Mags and Shaving Cream: Sam and Dean on the Fringes of Time and Place</text>
+			</navLabel>
+			<content src="Text/chapter0008.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0009" playOrder="9">
+			<navLabel>
+				<text>Purgatory with Color TV: Motel Rooms as Liminal Zones in Supernatural (Lorna Jowett)</text>
+			</navLabel>
+			<content src="Text/chapter0009.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0010" playOrder="10">
+			<navLabel>
+				<text>Rebels, Rogues, and Sworn Brothers: Supernatural and the Shift in “White Trash” from Monster to Hero (Aaron C. Burnell)</text>
+			</navLabel>
+			<content src="Text/chapter0010.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0011" playOrder="11">
+			<navLabel>
+				<text>Renegades and Wayward Sons: Supernatural and the ’70s (Simon Brown)</text>
+			</navLabel>
+			<content src="Text/chapter0011.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0012" playOrder="12">
+			<navLabel>
+				<text>Part 3 — “Jerk . . . bitch”: Representations of Gender and Sexuality</text>
+			</navLabel>
+			<content src="Text/chapter0012.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0013" playOrder="13">
+			<navLabel>
+				<text>The Road to Lordsburg: Rural Masculinity in Supernatural (Lorrie Palmer)</text>
+			</navLabel>
+			<content src="Text/chapter0013.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0014" playOrder="14">
+			<navLabel>
+				<text>Angels, Demons, and Damsels in Distress: The Representation of Women in Supernatural (Bronwen Calvert)</text>
+			</navLabel>
+			<content src="Text/chapter0014.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0015" playOrder="15">
+			<navLabel>
+				<text>“Go be gay for that poor, dead intern”: Conversion Fantasies and Gay Anxieties in Supernatural (Darren Elliott-Smith)</text>
+			</navLabel>
+			<content src="Text/chapter0015.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0016" playOrder="16">
+			<navLabel>
+				<text>Part 4 — The Gospel According to Chuck: Narrative and Storytelling in Supernatural</text>
+			</navLabel>
+			<content src="Text/chapter0016.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0017" playOrder="17">
+			<navLabel>
+				<text>“That’s so gay”: Drag, Camp, and the Power of Storytelling in Supernatural (James Francis, Jr.)</text>
+			</navLabel>
+			<content src="Text/chapter0017.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0018" playOrder="18">
+			<navLabel>
+				<text>“There’s a ton of lore on unicorns too”: Postmodernist Micro-Narratives and Supernatural (David Simmons)</text>
+			</navLabel>
+			<content src="Text/chapter0018.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0019" playOrder="19">
+			<navLabel>
+				<text>Breaking the Mirror: Metafictional Strategies in Supernatural (Alberto N. García)</text>
+			</navLabel>
+			<content src="Text/chapter0019.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0020" playOrder="20">
+			<navLabel>
+				<text>Part 5 — “What’s the lore say?”: Exploring Folklore &amp; Religion</text>
+			</navLabel>
+			<content src="Text/chapter0020.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0021" playOrder="21">
+			<navLabel>
+				<text>“There’s nothing more dangerous than some a-hole who thinks he’s on a holy mission”: Using and (Dis)-Abusing Religious and Economic Authority on Supernatural (Erin Giannini)</text>
+			</navLabel>
+			<content src="Text/chapter0021.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0022" playOrder="22">
+			<navLabel>
+				<text>“I am an angel of the Lord”: An Inquiry into the Christian Nature of Supernatural’s Heavenly Delegates (Jutta Wimmler and Lisa Kienzl)</text>
+			</navLabel>
+			<content src="Text/chapter0022.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0023" playOrder="23">
+			<navLabel>
+				<text>Televisual Folklore: Rescuing Supernatural from the Fakelore Realm (Mikel J. Koven and Gunnella Thorgeirsdottir)</text>
+			</navLabel>
+			<content src="Text/chapter0023.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0024" playOrder="24">
+			<navLabel>
+				<text>Part 6 — Cruel Capricious Gods: Auteurs, Fans, Critics</text>
+			</navLabel>
+			<content src="Text/chapter0024.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0025" playOrder="25">
+			<navLabel>
+				<text>Sympathy for the Fangirl: Becky Rosen, Fan Identity, and Interactivity in Supernatural (Brigid Cherry)</text>
+			</navLabel>
+			<content src="Text/chapter0025.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0026" playOrder="26">
+			<navLabel>
+				<text>Crossing Over: Network Transition, Critical Reception, and Supernatural Longevity (Karen Petruska)</text>
+			</navLabel>
+			<content src="Text/chapter0026.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0027" playOrder="27">
+			<navLabel>
+				<text>Plagiarism or Props?: Homage to Neil Gaiman in Eric Kripke’s Supernatural (Laura Felschow)</text>
+			</navLabel>
+			<content src="Text/chapter0027.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0028" playOrder="28">
+			<navLabel>
+				<text>Epilogue: Now: The Road Ahead, or the Chapter at the End of This Book (David Lavery)</text>
+			</navLabel>
+			<content src="Text/chapter0028.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0029" playOrder="29">
+			<navLabel>
+				<text>Seasons 1-6: Supernatural Episode Guide (Stephanie Graves)</text>
+			</navLabel>
+			<content src="Text/chapter0029.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0030" playOrder="30">
+			<navLabel>
+				<text>Notes</text>
+			</navLabel>
+			<content src="Text/chapter0030.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0031" playOrder="31">
+			<navLabel>
+				<text>TV and Filmography</text>
+			</navLabel>
+			<content src="Text/chapter0031.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0032" playOrder="32">
+			<navLabel>
+				<text>Contributors</text>
+			</navLabel>
+			<content src="Text/chapter0032.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0033" playOrder="33">
+			<navLabel>
+				<text>Bibliography</text>
+			</navLabel>
+			<content src="Text/chapter0033.html" />
+		</navPoint>
+		<navPoint id="navpoint-chapter0034" playOrder="34">
+			<navLabel>
+				<text>Copyright</text>
+			</navLabel>
+			<content src="Text/chapter0034.html" />
+		</navPoint>
+	</navMap>
+</ncx>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+	<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms">
+		<dc:title id="title">TV Goes to Hell: An Unofficial Road Map of Supernatural</dc:title>
+		<dc:language>en-US</dc:language>
+		<dc:date opf:event="modification">2020-08-15T16:32:16</dc:date>
+		<dc:contributor opf:role="bkp">ScribdMpubToEpubConverter</dc:contributor>
+		<dc:source>Scribd</dc:source>
+		<dc:identifier id="uid" opf:scheme="ISBN">0000000000000</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="chapter0000" href="Text/chapter0000.html" media-type="application/xhtml+xml" />
+		<item id="chapter0001" href="Text/chapter0001.html" media-type="application/xhtml+xml" />
+		<item id="chapter0002" href="Text/chapter0002.html" media-type="application/xhtml+xml" />
+		<item id="chapter0003" href="Text/chapter0003.html" media-type="application/xhtml+xml" />
+		<item id="chapter0004" href="Text/chapter0004.html" media-type="application/xhtml+xml" />
+		<item id="chapter0005" href="Text/chapter0005.html" media-type="application/xhtml+xml" />
+		<item id="chapter0006" href="Text/chapter0006.html" media-type="application/xhtml+xml" />
+		<item id="chapter0007" href="Text/chapter0007.html" media-type="application/xhtml+xml" />
+		<item id="chapter0008" href="Text/chapter0008.html" media-type="application/xhtml+xml" />
+		<item id="chapter0009" href="Text/chapter0009.html" media-type="application/xhtml+xml" />
+		<item id="chapter0010" href="Text/chapter0010.html" media-type="application/xhtml+xml" />
+		<item id="chapter0011" href="Text/chapter0011.html" media-type="application/xhtml+xml" />
+		<item id="chapter0012" href="Text/chapter0012.html" media-type="application/xhtml+xml" />
+		<item id="chapter0013" href="Text/chapter0013.html" media-type="application/xhtml+xml" />
+		<item id="chapter0014" href="Text/chapter0014.html" media-type="application/xhtml+xml" />
+		<item id="chapter0015" href="Text/chapter0015.html" media-type="application/xhtml+xml" />
+		<item id="chapter0016" href="Text/chapter0016.html" media-type="application/xhtml+xml" />
+		<item id="chapter0017" href="Text/chapter0017.html" media-type="application/xhtml+xml" />
+		<item id="chapter0018" href="Text/chapter0018.html" media-type="application/xhtml+xml" />
+		<item id="chapter0019" href="Text/chapter0019.html" media-type="application/xhtml+xml" />
+		<item id="chapter0020" href="Text/chapter0020.html" media-type="application/xhtml+xml" />
+		<item id="chapter0021" href="Text/chapter0021.html" media-type="application/xhtml+xml" />
+		<item id="chapter0022" href="Text/chapter0022.html" media-type="application/xhtml+xml" />
+		<item id="chapter0023" href="Text/chapter0023.html" media-type="application/xhtml+xml" />
+		<item id="chapter0024" href="Text/chapter0024.html" media-type="application/xhtml+xml" />
+		<item id="chapter0025" href="Text/chapter0025.html" media-type="application/xhtml+xml" />
+		<item id="chapter0026" href="Text/chapter0026.html" media-type="application/xhtml+xml" />
+		<item id="chapter0027" href="Text/chapter0027.html" media-type="application/xhtml+xml" />
+		<item id="chapter0028" href="Text/chapter0028.html" media-type="application/xhtml+xml" />
+		<item id="chapter0029" href="Text/chapter0029.html" media-type="application/xhtml+xml" />
+		<item id="chapter0030" href="Text/chapter0030.html" media-type="application/xhtml+xml" />
+		<item id="chapter0031" href="Text/chapter0031.html" media-type="application/xhtml+xml" />
+		<item id="chapter0032" href="Text/chapter0032.html" media-type="application/xhtml+xml" />
+		<item id="chapter0033" href="Text/chapter0033.html" media-type="application/xhtml+xml" />
+		<item id="chapter0034" href="Text/chapter0034.html" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="img0000" href="Images/image-SFG7GS0O.jpg" media-type="image/jpeg" />
+		<item id="img0001" href="Images/image-4MTVGLNR.jpg" media-type="image/jpeg" />
+		<item id="img0002" href="Images/image-Y0H0SO4P.jpg" media-type="image/jpeg" />
+		<item id="img0003" href="Images/image-NWUVZCTF.jpg" media-type="image/jpeg" />
+		<item id="img0004" href="Images/image-JVM883KF.jpg" media-type="image/jpeg" />
+		<item id="img0005" href="Images/image-2HWQWPT6.jpg" media-type="image/jpeg" />
+		<item id="img0006" href="Images/image-8JNX1P3Q.jpg" media-type="image/jpeg" />
+		<item id="img0007" href="Images/image-DBKT0PIY.jpg" media-type="image/jpeg" />
+		<item id="img0008" href="Images/image-RAMZPJDL.jpg" media-type="image/jpeg" />
+		<item id="css" href="Styles/style.css" media-type="text/css" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="chapter0000" />
+		<itemref idref="chapter0001" />
+		<itemref idref="chapter0002" />
+		<itemref idref="chapter0003" />
+		<itemref idref="chapter0004" />
+		<itemref idref="chapter0005" />
+		<itemref idref="chapter0006" />
+		<itemref idref="chapter0007" />
+		<itemref idref="chapter0008" />
+		<itemref idref="chapter0009" />
+		<itemref idref="chapter0010" />
+		<itemref idref="chapter0011" />
+		<itemref idref="chapter0012" />
+		<itemref idref="chapter0013" />
+		<itemref idref="chapter0014" />
+		<itemref idref="chapter0015" />
+		<itemref idref="chapter0016" />
+		<itemref idref="chapter0017" />
+		<itemref idref="chapter0018" />
+		<itemref idref="chapter0019" />
+		<itemref idref="chapter0020" />
+		<itemref idref="chapter0021" />
+		<itemref idref="chapter0022" />
+		<itemref idref="chapter0023" />
+		<itemref idref="chapter0024" />
+		<itemref idref="chapter0025" />
+		<itemref idref="chapter0026" />
+		<itemref idref="chapter0027" />
+		<itemref idref="chapter0028" />
+		<itemref idref="chapter0029" />
+		<itemref idref="chapter0030" />
+		<itemref idref="chapter0031" />
+		<itemref idref="chapter0032" />
+		<itemref idref="chapter0033" />
+		<itemref idref="chapter0034" />
+	</spine>
+</package>
