@@ -1,0 +1,1335 @@
+@font-face{font-family:"Geni102";font-style:normal;font-weight:normal;src:url(fonts/GenI102.TTF)}
+@font-face{font-family:"Genr102";font-style:normal;font-weight:normal;src:url(fonts/GenR102.TTF)}
+/*Base Styles*/
+body > div, body > ul {
+    font-size:small;
+}
+.greek
+{
+font-family: Genr102;
+}
+.greeki
+{
+font-family: Geni102;
+}
+p {
+	margin: 2px 0px 2px 0px;
+    text-indent: 0;
+    text-align: justify;
+    font-size: small;
+    background-color: inherit;
+ }
+p.para {
+    text-indent: 16px;
+}
+a {
+    color:blue;
+}
+div {
+    background-color: transparent;
+ }
+/*Lists*/
+ul {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left:0;
+    padding-left: 36px;
+}
+ul > li {
+    list-style-type:disc;
+}
+
+li > ul {
+    padding-left: 24px;
+}
+div.list {
+    margin-left: 1px;
+    padding: 0 10px 0 23px;
+    text-align:justify;
+}
+div.sub {
+    margin-left: 1px;
+    padding: 0 10px 0 23px;
+}
+.item1, .listpara1 {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 3px;
+}
+.item2, .item3, .listpara2, .listpara3, .item4, .listpara4, .itemN, .listparaN {
+    margin-top: 0;
+    margin-bottom: 3px;
+    margin-left: 1px;
+    padding-left: 23px;
+    padding-top: 0;
+}
+/* end list styles */
+
+
+
+/*Features*/
+.feature1 {
+    margin: 5px 0px 5px 1em;
+    padding: 5px 10px 8px 5px;
+    background-color: #DDDDDD;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-align: left;
+    page-break-inside: avoid;
+    font-size: 0.8em;
+}
+
+.feature2 { 
+    margin: 5px 0px 5px 3em;
+    padding: 5px 10px 8px 5px;
+    text-align: left;
+    border-top: 2px solid #AAAAAA;
+    border-bottom: 2px solid #AAAAAA;
+    background-color: #EEEEEE;
+    page-break-inside: avoid;
+    font-size: 0.8em;
+}
+/*Rules*/
+div.hr {
+    display: none;
+}
+div.top, div.bottom {
+    display: none;
+}
+div.dotted_top {
+    margin: 40px 0 0 1em;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 0.7em;
+}
+div.dotted_bottom {
+    text-decoration: underline;
+    text-align: center;
+}
+@media amzn-mobi
+{
+div.hr {
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+
+div.top hr {
+    display: block;
+	margin: 0 0 0 1em;
+    padding: 0;
+}
+div.bottom hr {
+	display: block;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+div.dotted_top {
+    margin: 40px 0 0 1em;
+    font-size: 0.7em;
+    text-decoration: underline;
+    text-align: center;
+}
+div.dotted_bottom {
+    margin: 0 0 0 0;
+    text-decoration: underline;
+    text-align: center;
+}
+}
+.feature2_title {
+    font-size: 1.2em;
+    text-indent: 0;
+    padding: 6px 0px 6px 4px;
+    margin: 0;
+}
+.feature2_text {
+    text-align: left;
+    padding: 4px 10px 1px 10px;
+    margin: 0;
+}
+.feature3 {
+    margin: 8px 0 8px 3em;
+    padding: 5px 10px 8px 5px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    page-break-inside: avoid;   
+    font-size: 0.7em;
+}
+.feature3_title {
+    font-size: 1.1em;
+    text-align: left;
+}
+.feature3_text {
+    font-size: inherit;
+    text-align: left;
+    padding: 4px 10px 1px 10px;
+    margin: 0;
+}
+.feature4 {
+    margin: 0px 0em 40px 1em;
+    padding: 5px 10px 8px 5px;
+    font-size: 0.7em;
+}
+.feature4_title {
+    font-size: 1.1em;
+}
+.feature4_text {
+    padding: 4px 10px 1px 10px;
+    margin: 0;
+}
+
+.feature1 > .feature1, .feature1 > .feature3, .feature1 > .feature4, .feature1 > .feature2, 
+.feature3 > .feature1, .feature3  > .feature3, .feature3 > .feature4, .feature3 > .feature2
+.feature4 > .feature1, .feature4 > .feature3, .feature4 > .feature4, .feature4 > .feature2
+.feature2 > .feature, .feature2 > .feature3, .feature2 > .feature4 > .feature2 > .feature2 {
+    font-size: inherit;
+}
+/*WileySD: Feature styles*/
+.featuretitle {
+    font-size: 1.6em;
+    padding: 6px 6px 0px 4px;
+    margin: 0;
+}
+.featuretitlesub {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 5px 24px 5px 24px;
+    margin: 0;
+}
+.featureh1 {
+    font-size: 1.4em;
+    text-align: center;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featureh1alt {
+    font-size: 1.4em;
+    text-align: left;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featureh2 {
+    font-size: 1.3em;
+    text-align: left;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featureh3 {
+    font-size: 1.1em;
+    text-align: left;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featureh4 {
+    font-size: 1em;
+    text-align: left;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featurepara {
+    font-size: inherit;
+    padding: 4px 10px 1px 10px;
+    margin: 0;
+}
+.featureparacontinued {
+    font-size: inherit;
+    padding: 4px 10px 1px 10px;
+    margin: 0;
+}
+.featureruninhead {
+    font-size: inherit;
+    padding: 4px 10px 1px 24px;
+    margin: 0;
+}
+.featureruninpara {
+    font-size: inherit;
+    padding: 4px 10px 1px 24px;
+    margin: 0;
+}
+.featureruninheadsub {
+    font-size: inherit;
+    padding: 4px 10px 1px 36px;
+    margin: 0;
+}
+.featureruninparasub {
+    font-size: inherit;
+    padding: 4px 10px 1px 36px;
+    margin: 0;
+}
+.featureurlpara {
+    font-size: smaller;
+    padding: 5px 0px 5px 24px;
+    margin: 0;
+}
+.featurelisthead {
+    font-size: inherit;
+    text-align: left;
+    padding: 5px 0px 2px 1em;
+    margin: 0;
+}
+.featureequation {
+    font-size: inherit;
+    display: block;
+    padding: 6px 12px 6px 36px;
+    margin: 0;
+}
+.featureextract {
+    font-size: inherit;
+    display: block;
+    padding: 6px 12px 5px 36px;
+    margin: 0;
+}
+.featureextractsource {
+    font-size: smaller;
+    text-align: left;
+    padding: 4px 12px 2px 36px;
+    margin: 0;
+}
+.featurefiguresource {
+    font-size: smaller;
+    text-align: left;
+    padding: 4px 12px 2px 36px;
+    margin: 0;
+}
+.featuretablecaption {
+    font-size: inherit;
+    text-align: left;
+    padding: 11px 12px 2px 36px;
+    margin: 0;
+}
+.featuresource {
+    font-size: smaller;
+    text-align: right;
+    padding: 4px 12px 2px 36px;
+    margin: 0;
+}
+.featurereference {
+    font-size: smaller;
+    text-align: left;
+    padding: 2px 12px 2px 36px;
+    margin: 0;
+}
+.featurefootnote {
+    font-size: smaller;
+    text-align: right;
+}
+/*end feature styles */
+
+/*Code*/
+pre {
+    font-size: smaller;
+    font-family: monospace;
+    text-align: justify;
+    text-indent: 0;
+    background-color: transparent;
+    white-space: pre-wrap;
+    margin: 10px 10px 6px 1em;
+    padding: 0;
+    hyphens: none;
+    -webkit-hyphens: none; 
+    -moz-hyphens:none; 
+    adobe-hyphenate: none;
+}
+p.codetitle {
+    margin-left: 12px;
+}
+p.codehead {
+    font-size: 1em;
+}
+p.codenote {
+    font-size: x-small;
+    text-align: right;
+    border-top: thin solid #AAAAAA;
+    border-bottom: thin solid #AAAAAA;
+    text-decoration: underline;
+    margin: 6px 0px 8px 0px;
+    padding: 4px 0 4px 0;
+}
+/* end  styles */
+
+/*Use Spans to tag bold, italic and bolditalic*/
+span.normal {
+    font-style: normal;
+    font-weight: normal;
+}
+span.bold { /*<b> and <strong> can also be used*/
+    font-weight: bold;
+}
+span.italic {/*<i> and <em> can also be used*/
+    font-style:italic;
+}
+span.bolditalic {
+    font-weight: bold;
+    font-style:italic;
+}
+span.emphasis {
+    font-style:italic;
+}
+
+/*Colors: apply as classes on <span> tags -- redefine to suit rgb colors os specific titles*/ 
+.red {
+    color:#FF0000;
+    /*color:rgb(255,0,0);*/
+    background-color: inherit;
+}
+.blue {
+    color:#000FFF;
+    /*color:rgb(0,15,255);*/
+    background-color:inherit;
+}
+.green {
+    color:#228B22;
+    /*color:rgb(34,139,34);*/
+    background-color:inherit;
+}
+.yellow {
+    color:#FFF000;
+    /*color:rgb(255,240,0);*/
+    background-color:inherit;
+}
+
+/*General Headers*/
+h1, h2, h3, h4, h5, h6, h7 {
+	margin: 20px 0px 5px 0px;
+    text-indent: 0;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    hyphens: none;
+    -webkit-hyphens: none; 
+    -moz-hyphens:none; 
+    adobe-hyphenate: none;
+    display: block;
+    }
+
+h1 {
+	margin: 36px 0px 5px 0px;
+    text-align: left;
+}
+h2 {
+	margin: 24px 0px 5px 0px;
+    text-align: left;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+    font-size: 1em;
+}
+/*Use H1-H6 to keep sections intact. Use chapter/part/section titles apart from section structure*/
+h1.parttitle {
+    font-size: xx-large;
+    text-align: center;
+	margin: 5px 0px 48px 0px;
+}
+h1.chaptertitle {
+    font-size: xx-large;
+    text-align: center;
+    text-indent: 0;
+	margin: 5px 0px 48px 0px;
+}
+h1.chaptersubtitle {
+    font-size: x-large;
+    text-align: center;
+    text-indent: 0;
+	margin: 5px 0px 20px 0px;
+}
+h1.sectiontitle {
+    font-size: x-large;
+    text-align: center;
+	margin: 5px 0px 36px 0px;
+}
+p.parttitle {
+    font-size: xx-large;
+    text-align: center;
+	margin: 5px 0px 48px 0px;
+}
+p.chaptertitle {
+    font-size: xx-large;
+    text-align: center;
+    text-indent: 0;
+	margin: 5px 0px 48px 0px;
+}
+p.chaptersubtitle {
+    font-size: x-large;
+    text-align: center;
+    text-indent: 0;
+	margin: 5px 0px 20px 0px;
+}
+p.sectiontitle {
+    font-size: x-large;
+    text-align: center;
+	margin: 5px 0px 36px 0px;
+}
+/*General Alignment: apply as class when necessary*/
+.left {
+    text-align: left;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+div.left {
+    text-align: left;
+}
+div.center {
+    text-align: center;
+}
+div.right {
+    text-align: right;
+}
+
+/*Figures & Graphics*/
+div.figure {
+    margin: 6px 0px 10px 0px;
+    text-align: center;
+}
+div.figure img, div.graphic img {
+    max-width:100%;
+}
+div.graphic {
+    margin: 6px 0px 8px 8px;
+    padding: 0 6px 0 6px;
+    text-align: center;
+}
+img.marginicon {
+    padding: 0;
+}
+.pagebreak {
+    page-break-after:always;
+}
+.figurecaption {
+    font-size: small;
+    text-indent: 0;
+    text-align: left;
+    margin: 11px 0 2px 0px;
+    color: #5f6c7a;
+    background-color: transparent;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+}
+p.figuresource {
+    font-size: x-small;
+    text-indent: 0;
+    text-align: left;
+    margin: 4px 0px 2px 0px;
+}
+p.figurelabel {
+    font-size: x-small;
+    text-indent: 0;
+    text-align: left;
+    margin:0;
+}
+/*Begin Wiley SD-specific Styles*/
+
+/*WileySD: Headings*/
+p.h1 {
+    font-size: 2em;
+    text-align: center;
+    margin: 36px 0px 5px 0px;
+    page-break-after:avoid;
+}
+p.h2 {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 25px 0px 5px 0px;
+    page-break-after:avoid;
+}
+p.h3 {
+    font-size: large;
+    text-align: left;
+    margin: 20px 0px 5px 0px;
+}
+p.h4 {
+    font-size: medium;
+    text-align: left;
+    margin: 20px 0px 5px 0px;
+}
+p.paraaftertitle {
+    text-indent: 0;
+}
+p.chapterauthor {
+    font-size: medium;
+    text-align: right;
+    margin: 5px 0px 20px 0px;
+}
+p.chapterauthoraffiliation {
+    text-align: right;
+    margin: 5px 0px 10px 0px;
+}
+p.chaptercredit {
+    text-align: right;
+    margin-bottom: 20px;
+}
+p.chapterintroductionhead {
+    font-size: large;
+    text-align: left;
+    margin-bottom: 12px;
+}
+p.chapterintroductionpara {}
+p.h5 {
+    font-size: medium;
+    text-align: left;
+    margin-top: 20px;
+}
+p.h6 {
+    font-size: medium;
+    text-align: left;
+    margin-top: 20px;
+}
+p.h7 {
+    font-size: medium;
+    text-align: left;
+    margin-top: 20px;
+}
+p.floatinghead {
+    font-size: medium;
+    text-align: left;
+    margin-top: 20px;
+}
+/*end headings*/
+
+/*WileySD: Para styles*/
+
+p.paracontinued {
+}
+p.partintroductionpara {
+    margin: 0px 0px 24px 0px;
+}
+p.parabulleted {/*include bullet entities -- or convert to <ul>*/
+    display: list-item;
+    list-style-type: none;
+    margin: 0px 0px 6px 1em;
+}
+p.paranumbered {/* include numbers -- or convert to p.listnumbered*/
+    display: list-item;
+    list-style-type: none;
+    margin: 0px 0px 6px 1em;
+}
+p.extractpara {
+    display: block;
+    margin: 6px 12px 5px 1em;
+}
+p.extractcontinued {
+    display: block;
+    margin: 6px 12px 2px 1em;
+}
+p.extractattribution {
+    text-align: right;
+    margin: 4px 0px 2px 0px;
+}
+p.quote {
+    display: block;
+    margin: 6px 0px 2px 1em;
+}
+p.quotepara {/*same as quote*/
+    display: block;
+    margin: 6px 0px 2px 1em;
+}
+p.quotesource {
+    text-align: right;
+    margin: 4px 0px 2px 0px;
+}
+p.equation {
+    display: block;
+    margin: 6px 12px 2px 1em;
+}
+p.equationnumbered {
+    display: block;
+    margin: 6px 12px 2px 1em;
+}
+p.listwhere {/*a where list that follows an equation */
+    display: list-item;
+    list-style-type: none;
+    text-align: left;
+    margin: 2px 0px 6px 36px;
+}
+p.epigraph {
+    display: block;
+    margin: 6px 12px 2px 1em;
+}
+p.epigraphsource {
+    text-align: right;
+    margin: 4px 0px 2px 0px;
+}
+p.onlinereference {
+    font-size: x-small;
+    font-family: monospace;
+    margin: 4px 0px 2px 0px;
+}
+p.onlinereference2 {
+    font-size: x-small;
+    font-family: monospace;
+    margin: 4px 0px 2px 1em;
+}
+p.crossrefpara {/*same as para*/
+    margin-top: 5px;
+}
+p.dialogue {
+    margin-left: 20px;
+    display: block;
+    margin-top: 5px;
+}
+p.supplementinstruction {
+    text-align: left;
+    margin: 5px 0px 2px 1em;
+}
+p.urlpara {
+    font-size: smaller;
+    margin-top: 5px;
+}
+.runinhead {
+    text-align: left;
+    margin: 0px 0px 0px 1em;
+    padding-right: 10px;
+}
+.runinpara {
+    margin: 0px 0px 6px 1em;
+}
+.runinheadsub {
+    text-align: left;
+    margin: 2px 0px 2px 2em;
+    padding-right: 10px;
+}
+.runinparasub {
+    margin: 2px 0px 2px 2em;
+}
+p.question {
+    margin: 10px 0px 2px 0px;
+    padding-left: 12px;
+}
+p.option {
+    display: list-item;
+    list-style-type: none;
+    margin: 2px 0px 6px 2em;
+}
+p.answer {
+    margin: 5px 0px 2px 1em;
+}
+p.explanation {
+    margin-top: 5px;
+}
+p.questiondata {
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+/*end para styles*/
+
+
+
+/*WileySD: Lists*/
+p.extractlistnumbered {
+    display: block;
+    margin: 2px 12px 5px 1em;
+}
+p.partfeaturinglist {
+    margin: 2px 0px 5px 3em;
+}
+p.listhead {
+    text-align: left;
+}
+p.keyconceptshead {
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 6px;
+}
+p.chapterobjectivetitle {
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 6px;
+}
+p.objectivetitle {
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 6px;
+}
+p.objective {
+    margin-left: 1em;
+}
+p.subobjective {
+    margin-left: 2em;
+}
+/*end lists*/
+
+/*WileySD: Tables*/
+td {
+    font-size: inherit;
+    vertical-align: text-top;
+    text-indent: 0 !important;
+    text-align: left !important;
+    background-color: inherit;
+    padding-left: 5px;
+   
+}
+.tablecaption {
+    font-size: .8em;
+    text-align: left;
+    margin-top: 11px;
+}
+table.bodytable, table {
+    border-collapse: collapse; /*turns off double borders*/
+    margin-bottom: 8px;
+    font-size:x-small;
+}
+td.headercell {
+    padding: 3px;
+}
+td.bodycell {
+    padding: 3px;
+}
+td.footercell  {
+    padding: 3px;
+}
+p.tablesource {
+    font-size: x-small;
+    text-align: right;
+}
+/*note: these are now defined under the general td style, above*/
+td.tabularhead {
+}
+td.tabularentry {
+}
+td.tabularentrysub {
+}
+p.tablefootnote {
+    font-size: x-small;
+    text-align: left;
+    margin-bottom: 3px;
+}
+/*NOTE: Do NOT use a tableentry <td> with a <p class="tablefootnote"> inside to create a footnote -- this will add extra space inside the table cell. Instead, use <td class="footercell"> with a colspan="N" declaration. Or use <p class="tablefootnote"> AFTER the </table> tag. */
+
+/*note: including <p>'s in your table cells will result in extra spacing and bad rendering -- all <p>'s in td cell's should be removed, leaving the formatting to the <td> class. The classes below are undefined and tables with these styles will appear as "normal" font -- if you need extra line, use <br /> 
+p.tabluarentry {
+}
+p.tabularhead {
+}
+p.tabularentrysub {
+}
+p.tableentry {
+}
+p.tablehead {
+}*/
+
+/*end tables*/
+
+
+
+
+/*Wiley SD: Front Matter styles*/
+p.mattertitle, p.booktitle, p.booksubtitle, p.bookhalftitle, p.introductiontitle, p.glossarytitle, p.indextitle, p.appendixtitle, p.bibliographytitle {
+    font-size: x-large;
+    text-align: center;
+    margin: 45px 0 12px 0;
+}
+p.booksubtitle, p.bookhalftitle {
+    margin-top: 35px;
+}
+p.mattertitle {
+    margin-top: 48px;
+}
+p.bookauthor, p.bookedition {
+    font-size: medium;
+    text-align: center;
+    margin: 20px 0 6px 0;
+}
+p.copyright {
+    text-align: justify;
+    margin: 8px 0 6px 0;
+}
+p.credits { 
+    text-align: left;
+}
+p.creditstitle { /*amend titles in credits for this style*/
+    text-align: left;
+    margin-top: 20px;
+}
+p.dedication {
+    text-align: center;
+}
+p.introductiontitle {
+    margin: 0 0 48px 0;
+}
+p.toctitle {
+    font-size: xx-large;
+    text-align: center;
+}
+p.contentsparttitle {
+    font-size: x-large;
+    text-align: center;
+    margin-top: 30px;
+}
+p.contentschaptertitle {
+    font-size: large;
+    text-align: left;
+    margin: 24px 0 6px 0;
+}
+p.contentsabstract {
+    font-size: x-small;
+    text-align: left;
+}
+p.contentsh1 {
+    font-size: medium;
+    text-align: left;
+    margin-left: 2em;
+}
+p.contentsh2 {
+    text-align: left;
+    margin-left: 3em;
+}
+p.contentsh3 {
+    text-align: left;
+    margin-left: 4em;
+}
+p.toc_entry {
+    text-align: left;
+}
+p.prefacetitle {
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 48px;
+}
+p.signatureline {
+    text-align: right;
+    margin-top: 36px;
+    margin-bottom: 12px;
+}
+/*end front matter styles*/
+
+/*Wiley SD: End-of-Chapter styles */
+p.discussionhead {
+    text-align: left;
+    margin-bottom: 20px;
+}
+p.footnoteentry {
+    margin: 15px 0px 5px 20px;
+}
+p.endnoteshead {
+    font-size: large;
+    text-align: left;
+    margin: 20px 0 20px 0;
+}
+p.endnoteentry {
+    display: list-item;
+    list-style-type: none;
+    text-align: left;
+    margin: 2px 0 0 12px;
+}
+p.exerciseshead, p.furtherreadinghead, p.keytermshead, p.problemshead, p.reviewhead, p.summaryhead, p.questionshead, p.answershead  {
+    text-align: left;
+    margin-bottom: 20px;
+}
+p.referenceshead {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*end end-of-chapter styles */
+
+/*Wiley SD: Back Matter styles*/
+p.glossaryletter {
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 10px;
+}
+p.glossarydefinition {
+    margin-bottom: 5px;
+}
+p.glossaryterm {
+}
+span.glossaryterm-char {
+}
+span.glossarydefinition-char {
+    font-weight: normal;
+}
+p.indexletter {
+    font-size: medium;
+    text-align: left;
+    margin: 12px 0 10px 0;
+}
+p.index1 {
+}
+.index2 {
+    margin-left: 1em;
+    text-indent: 0;
+    font-size: small;
+}
+.index3 {
+    margin-left: 2em;
+    margin-bottom: 0px;
+    font-size: inherit;
+}
+.index4 {
+    margin-left: 3em;
+    margin-bottom: 0px;
+    font-size: inherit;
+}
+p.indexnote {
+    font-size: x-small;
+    text-align: right;
+}
+p.bibliographyhead {
+    text-align: left;
+    margin-bottom: 20px;
+}
+p.bibliographyentry {
+    margin-bottom: 5px;
+}
+p.endnotestitle {
+    font-size: medium;
+    margin-bottom: 36px;
+}
+p.referencetitle {
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 48px;
+}
+p.reference {
+    margin-bottom: 5px;
+}
+p.referenceannotation {
+    margin-bottom: 5px;
+}
+/*end back matter*/
+
+/*addresses*/
+p.addressname {
+    margin-bottom: 2px;
+}
+p.address {
+}
+p.addressdescription {
+}
+/*end addresses*/
+
+/*local character formatting*/
+span.inlinecode, span.inlinecodevariable, span.inlinecodeuserinput, span.inlinecodeuserinputvariable, span.codehighlight {
+    font-family: monospace;
+    font-size: inherit;
+}
+span.inlinecodevariable {
+    font-style: italic;
+}
+span.inlinecodeuserinput {
+    font-weight: bold;
+}
+span.inlinecodeuserinputvariable {
+    font-weight: bold;
+    font-style: italic;
+}
+span.inlineemail {
+    font-size: inherit;
+}
+span.inlineurl {
+    font-size: inherit;
+}
+span.codehighlight {
+    background-color: #EEEEEE;
+    text-decoration: underline;
+}
+span.callout {
+    font-weight: bold;
+    font-size: inherit;
+}
+span.codelabel {
+    font-weight: bold;
+    font-size: inherit;
+}
+span.keyterm {
+    font-weight: bold;
+}
+span.variable {
+    font-style: italic;
+}
+span.superscript { /* convert to <sup>, preferred*/
+    font-size: xx-small;
+    vertical-align: super;
+}
+span.subscript {/* convert to <sub>, preferred*/
+    font-size: xx-small;
+    vertical-align: sub;
+}
+sup.frac { /* use for top number in fractions*/
+    font-size: xx-small;
+    vertical-align: super;
+}
+sub.frac {/* use for bottom number in fractions*/
+    font-size: xx-small;
+    vertical-align: sub;
+}
+span.userinput {
+    font-weight: bold;
+}
+span.userinputvariable {
+    font-weight: bold;
+    font-style: italic;
+}
+span.crossrefterm {
+    font-weight: bold;
+}
+span.genusspecies {
+    font-weight: bold;
+}
+span.menuarrow {/* this is a legitimate span, but the entity should convert to &rArr;, and needs no definition*/
+}
+span.strikethrough {
+    text-decoration: line-through;
+}
+span.underline {
+    text-decoration: underline;
+}
+/*end local formatting*/
+
+/* codecolor spans */
+span.codecolorblue {
+color: #0000FF;
+background-color: inherit;
+}
+span.codecolorblue2 {
+color: #0000A5;
+background-color: inherit;
+}
+span.codecolorblue3 {
+color: #6464B9;
+background-color: inherit;
+}
+span.codecolorbluegreen {
+color: #2B91AF;
+background-color: inherit;
+}
+span.codecolorbrown {
+color: #573733;
+background-color: inherit;
+}
+span.codecolordkblue {
+color: #000080;
+background-color: inherit;
+}
+span.codecolorgreen {
+color: #008000;
+background-color: inherit;
+}
+span.codecolorgreen2 {
+color: #629755;
+background-color: inherit;
+}
+span.codecolorgrey30 {
+color: #808080;
+background-color: inherit;
+}
+span.codecolorgrey55 {
+color: #C0C0C0;
+background-color: inherit;
+}
+span.codecolorgrey80 {
+color: #555555;
+background-color: inherit;
+}
+span.codecolorhotpink {
+color: #DF36FA;
+background-color: inherit;
+}
+span.codecolormagenta {
+color: #844646;
+background-color: inherit;
+}
+span.codecolororange {
+color: #B96464;
+background-color: inherit;
+}
+span.codecolorpeach {
+color: #CE8F53;
+background-color: inherit;
+}
+span.codecolorpurple {
+color: #951795;
+background-color: inherit;
+}
+span.codecolorpurple2 {
+color: #800080;
+background-color: inherit;
+}
+span.codecolorred {
+color: #FF0000;
+background-color: inherit;
+}
+span.codecolorred2 {
+color: #800000;
+background-color: inherit;
+}
+span.codecolorred3 {
+color: #A31515;
+background-color: inherit;
+}
+span.codecolortealblue {
+color: #008080;
+background-color: inherit;
+}
+span.codecolorwhite {
+color: #FFFFFF;
+background-color: inherit;
+}
+/*end code colors*/
+p.textbreak, p.textbreak-withbullet  {
+    margin: 10px 0 10px 0;
+    font-size: medium;
+    text-align: center;
+}
+/*begin poetry*/
+p.poetrytitle {
+    font-size: large;
+    text-align: left;
+    margin: 24px 0px 10px 30px;
+}
+p.poetrypara {
+    text-align: left;
+    margin: 12px 0px 2px 30px;
+}
+p.poetrycontinued {
+    text-align: left;
+    margin: 2px 0px 2px 30px;
+}
+p.poetrysource {
+    text-align: left;
+    margin: 6px 0px 8px 30px;
+}
+/*poetry legacy styles*/
+p.poetry-first {
+    text-align: left;
+    margin: 10px 0px 2px 30px;
+}
+p.poetry-middle {
+    text-align: left;
+    margin-left: 30px;
+}
+p.poetry-last {
+    text-align: left;
+    margin: 2px 0px 10px 30px;
+}
+p.poetrypara-first {
+    text-align: left;
+    margin: 10px 0px 2px 30px;
+}
+p.poetrypara-middle {
+    text-align: left;
+    margin: 2px 0px 2px 30px;
+}
+p.poetrypara-last {
+    text-align: left;
+    margin: 2px 0px 10px 30px;
+}
+/*end poetry*/
+
+/*begin recipes*/
+p.recipetitle {
+    font-size: large;
+    text-align: center;
+    margin: 24px 0px 5px 0px;
+}
+p.recipetitlealternative {
+    font-size: medium;
+    text-align: left;
+    margin: 24px 0px 5px 0px;
+}
+p.recipesubrecipetitle {
+    font-size: medium;
+    text-align: center;
+    margin: 12px 0px 12px 0px;
+}
+p.recipeyield {
+    font-size: medium;
+    text-align: left;
+    margin: 2px 0px 10px 0px;
+}
+p.recipeintro {
+    margin: 10px 0px 2px 0px;
+}
+p.recipeingredienthead {
+    font-size: medium;
+    text-align: left;
+    margin: 10px 0px 0px 3em;
+}
+p.recipeingredientlist-first {
+    display: list-item;
+    list-style-type: none;
+    margin: 15px 0px 0px 2em;
+}
+p.recipeingredientlist {
+    display: list-item;
+    list-style-type: none;
+    margin: 2px 0px 0px 2em;
+}
+p.recipeingredientlist-last {
+    display: list-item;
+    list-style-type: none;
+    margin: 0px 0px 15px 2em;
+}
+p.recipeprocedurehead {
+    font-size: medium;
+    text-align: left;
+    margin: 2px 0px 10px 0px;
+}
+p.recipeprocedure {
+    margin: 2px 0px 12px 0px;
+}
+span.recipeprocedure {
+    font-size: small;
+    padding-left: 0px;
+    padding-right: 4px;
+}
+p.recipetime {
+    font-size: medium;
+    text-align: left;
+    margin: 2px 0px 10px 0px;
+}
+p.recipevariationh1 {
+    font-size: medium;
+    text-align: left;
+    margin: 2px 0px 10px 0px;
+}
+p.recipevariationh2 {
+    text-align: left;
+    margin: 2px 0px 10px 0px;
+}
+p.recipevariationflavor {/* */
+    text-align: left;
+    margin: 2px 0px 12px 0px;
+}
+p.recipevariationpreparation {
+    margin: 2px 0px 12px 0px;
+}
+p.recipenutritioninfo {/*placed */
+    font-size: x-small;
+    text-align: right;
+    margin: 5px 0px 10px 0px;
+}
+p.recipefootnote {
+    font-size: x-small;
+    margin: 2px 0px 12px 3em;
+}
+p.recipeusmeasure, p.recipemetricmeasure, p.recipepercentage {
+    font-size: x-small;
+    margin: 5px 0px 5px 2em;
+}
+p.recipetablehead {
+    margin: 15px 0px 5px 0px;
+}
+
+/*non wileySDstyles*/
+p.recipetitle-101- {
+    font-size: large;
+    text-align: center;
+    margin: 24px 0px 5px 0px;
+}
+p.recipeprocedure-101- {
+    margin: 2px 0px 12px 0px;
+}
+p.feature-recipe-title {
+    font-size: large;
+    text-align: center;
+    margin: 24px 0px 5px 0px;
+}
+/*end recipes*/
+
+/*end style sheet*/
+
+

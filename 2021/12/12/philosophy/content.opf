@@ -1,0 +1,91 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Supernatural and Philosophy</dc:title>
+    <dc:creator>Irwin, William, Foresman, Galen A.</dc:creator>
+    <dc:publisher>Wiley</dc:publisher>
+    <dc:format/>
+    <dc:date>2013-08-05</dc:date>
+    <dc:subject/>
+    <dc:description/>
+    <dc:rights/>
+    <dc:identifier id="BookId">9781118615997</dc:identifier>
+    <dc:language>En</dc:language>
+    <meta content="cover" name="cover"/>
+  </metadata>
+  <manifest>
+<item href="fonts/GenR102.TTF" id="idfont1" media-type="application/vnd-ms-opentype"/>
+<item href="fonts/GenI102.TTF" id="idfont2" media-type="application/vnd-ms-opentype"/>   
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="WileySD_templateV4.5.css" id="Wiley_style" media-type="text/css"/>
+    <item href="9781118615997_cover.xhtml" id="xcover" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_series.xhtml" id="A_9781118615997_series" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_title.xhtml" id="A_9781118615997_title" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_copyright.xhtml" id="A_9781118615997_copyright" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_Acknowledge.xhtml" id="A_9781118615997_Acknowledge" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_introduction.xhtml" id="A_9781118615997_introduction" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_p01.xhtml" id="A_9781118615997_p01" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c01.xhtml" id="A_9781118615997_c01" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c02.xhtml" id="A_9781118615997_c02" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c03.xhtml" id="A_9781118615997_c03" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c04.xhtml" id="A_9781118615997_c04" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_p02.xhtml" id="A_9781118615997_p02" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c05.xhtml" id="A_9781118615997_c05" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c06.xhtml" id="A_9781118615997_c06" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c07.xhtml" id="A_9781118615997_c07" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c08.xhtml" id="A_9781118615997_c08" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c09.xhtml" id="A_9781118615997_c09" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_p03.xhtml" id="A_9781118615997_p03" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c10.xhtml" id="A_9781118615997_c10" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c11.xhtml" id="A_9781118615997_c11" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c12.xhtml" id="A_9781118615997_c12" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_p04.xhtml" id="A_9781118615997_p04" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c13.xhtml" id="A_9781118615997_c13" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c14.xhtml" id="A_9781118615997_c14" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_c15.xhtml" id="A_9781118615997_c15" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_contribute.xhtml" id="A_9781118615997_contribute" media-type="application/xhtml+xml"/>
+    <item href="9781118615997_index.xhtml" id="A_9781118615997_index" media-type="application/xhtml+xml"/>
+    <item href="images/9781118615997.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="images/c09f001.jpg" id="c09f001" media-type="image/jpeg"/>
+    <item href="images/c09f002.jpg" id="c09f002" media-type="image/jpeg"/>
+    <item href="images/c09f003.jpg" id="c09f003" media-type="image/jpeg"/>
+    <item href="images/c09f004.jpg" id="c09f004" media-type="image/jpeg"/>
+    <item href="images/c09f005.jpg" id="c09f005" media-type="image/jpeg"/>
+    <item href="images/c09f006.jpg" id="c09f006" media-type="image/jpeg"/>
+    <item href="images/title.jpg" id="title" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="xcover" linear="no"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="A_9781118615997_series" linear="yes"/>
+    <itemref idref="A_9781118615997_title" linear="yes"/>
+    <itemref idref="A_9781118615997_copyright" linear="yes"/>
+    <itemref idref="A_9781118615997_Acknowledge" linear="yes"/>
+    <itemref idref="A_9781118615997_introduction" linear="yes"/>
+    <itemref idref="A_9781118615997_p01" linear="yes"/>
+    <itemref idref="A_9781118615997_c01" linear="yes"/>
+    <itemref idref="A_9781118615997_c02" linear="yes"/>
+    <itemref idref="A_9781118615997_c03" linear="yes"/>
+    <itemref idref="A_9781118615997_c04" linear="yes"/>
+    <itemref idref="A_9781118615997_p02" linear="yes"/>
+    <itemref idref="A_9781118615997_c05" linear="yes"/>
+    <itemref idref="A_9781118615997_c06" linear="yes"/>
+    <itemref idref="A_9781118615997_c07" linear="yes"/>
+    <itemref idref="A_9781118615997_c08" linear="yes"/>
+    <itemref idref="A_9781118615997_c09" linear="yes"/>
+    <itemref idref="A_9781118615997_p03" linear="yes"/>
+    <itemref idref="A_9781118615997_c10" linear="yes"/>
+    <itemref idref="A_9781118615997_c11" linear="yes"/>
+    <itemref idref="A_9781118615997_c12" linear="yes"/>
+    <itemref idref="A_9781118615997_p04" linear="yes"/>
+    <itemref idref="A_9781118615997_c13" linear="yes"/>
+    <itemref idref="A_9781118615997_c14" linear="yes"/>
+    <itemref idref="A_9781118615997_c15" linear="yes"/>
+    <itemref idref="A_9781118615997_contribute" linear="yes"/>
+    <itemref idref="A_9781118615997_index" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="9781118615997_cover.xhtml" title="Supernatural and Philosophy" type="cover"/>
+    <reference href="9781118615997_toc.xhtml" title="Supernatural and Philosophy" type="toc"/>
+  </guide>
+</package>

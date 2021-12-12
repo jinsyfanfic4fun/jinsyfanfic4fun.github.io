@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/12/12/philosophy/</loc>
+    
+    <lastmod>2021-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/12/12/tv_goes_to_hell/</loc>
     
     <lastmod>2021-12-12</lastmod>
@@ -223,20 +232,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/7x02-Time-After-Time/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/7x13-The-Slice-Girls/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/3x08-A-Very-Supernatural-Christmas/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,7 +253,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/12x5-The-One-You-ve-Been-Waiting-For/</loc>
+    <loc>http://example.com/tags/7x02-Time-After-Time/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/7x13-The-Slice-Girls/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -279,20 +281,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/7x05-Shut-Up-Dr-Phil/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/7x06-Slash-Fiction/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/12x19-The-Future/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,6 +289,20 @@
   
   <url>
     <loc>http://example.com/tags/12x12-Twigs-Twine-Tasha-Banes/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/7x05-Shut-Up-Dr-Phil/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/7x06-Slash-Fiction/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -321,7 +323,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/10x10-The-Hunter-Games/</loc>
+    <loc>http://example.com/tags/12x5-The-One-You-ve-Been-Waiting-For/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,6 +344,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/10x10-The-Hunter-Games/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/7x08-Season-Time-for-a-Wedding/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,20 +359,6 @@
   
   <url>
     <loc>http://example.com/tags/7x09-How-to-Win-Friends-and-Influence-Monsters/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/season-5/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/season-6/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -384,6 +379,20 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/season-5/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/season-6/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/supernatural-resource-novel/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,13 +407,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/soulless-Sam-Winchester/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/supernatural-essays/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -412,21 +414,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/In-the-Hunt/</loc>
+    <loc>http://example.com/tags/supernatural-and-philosophy-metaphysics/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Unauthorized-Essays-On-Supernatural/</loc>
-    <lastmod>2021-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/There-Will-Be-Peace-When-You-Are-Done/</loc>
+    <loc>http://example.com/tags/soulless-Sam-Winchester/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -441,6 +436,27 @@
   
   <url>
     <loc>http://example.com/tags/unauthorized-road-map/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/There-Will-Be-Peace-When-You-Are-Done/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/In-the-Hunt/</loc>
+    <lastmod>2021-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Unauthorized-Essays-On-Supernatural/</loc>
     <lastmod>2021-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

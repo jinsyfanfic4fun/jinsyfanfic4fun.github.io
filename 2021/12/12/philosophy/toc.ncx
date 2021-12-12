@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd" >
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="WileySD_cssBasics" content="0" />
+    <meta name="dtb:uid" content="9781118615997" />
+  </head>
+  <docTitle>
+    <text>Supernatural and Philosophy</text>
+  </docTitle>
+  <docAuthor>
+    <text>Galen A. Foresman</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="9781118615997_cover.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>The Blackwell Philosophy and PopCulture Series</text>
+      </navLabel>
+      <content src="9781118615997_series.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="9781118615997_title.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Copyright page</text>
+      </navLabel>
+      <content src="9781118615997_copyright.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="9781118615997_Acknowledge.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Introduction: Codename: GhostPhacers</text>
+      </navLabel>
+      <content src="9781118615997_introduction.xhtml" />
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Part One: OF MONSTERS AND MORALS</text>
+      </navLabel>
+      <content src="9781118615997_p01.xhtml" />
+      <navPoint id="navpoint-8" playOrder="8">
+        <navLabel>
+          <text>Chapter 1: Are Monsters Members of the Moral Community?</text>
+        </navLabel>
+        <content src="9781118615997_c01.xhtml" />
+        <navPoint id="navpoint-9" playOrder="9">
+          <navLabel>
+            <text>Moral Community? Is That Like a Coven?</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-10" playOrder="10">
+          <navLabel>
+            <text>Monsters and the Moral Community: Group 1&#x2014;Low-Functioning Monsters</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-11" playOrder="11">
+          <navLabel>
+            <text>Group 2&#x2014;Antisocial Monsters</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-12" playOrder="12">
+          <navLabel>
+            <text>Group 3&#x2014;The Moral Monsters</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-13" playOrder="13">
+          <navLabel>
+            <text>Good Guys?</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-14" playOrder="14">
+          <navLabel>
+            <text>Note</text>
+          </navLabel>
+          <content src="9781118615997_c01.xhtml#head6" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-15" playOrder="15">
+        <navLabel>
+          <text>Chapter 2: Aristotle&#x2019;s Metaphysics of Monsters and Why We Love Supernatural</text>
+        </navLabel>
+        <content src="9781118615997_c02.xhtml" />
+        <navPoint id="navpoint-16" playOrder="16">
+          <navLabel>
+            <text>Moving Backward to Move Forward</text>
+          </navLabel>
+          <content src="9781118615997_c02.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-17" playOrder="17">
+          <navLabel>
+            <text>Sam, I Am</text>
+          </navLabel>
+          <content src="9781118615997_c02.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-18" playOrder="18">
+          <navLabel>
+            <text>A Monster by Another Name</text>
+          </navLabel>
+          <content src="9781118615997_c02.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-19" playOrder="19">
+          <navLabel>
+            <text>Out with the Old</text>
+          </navLabel>
+          <content src="9781118615997_c02.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-20" playOrder="20">
+          <navLabel>
+            <text>The Monster at the End of This Chapter</text>
+          </navLabel>
+          <content src="9781118615997_c02.xhtml#head5" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-21" playOrder="21">
+        <navLabel>
+          <text>Chapter 3: Hunters, Warriors, Monsters</text>
+        </navLabel>
+        <content src="9781118615997_c03.xhtml" />
+        <navPoint id="navpoint-22" playOrder="22">
+          <navLabel>
+            <text>Eat it, Twilight!</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-23" playOrder="23">
+          <navLabel>
+            <text>The Sanctity of Life and All That Crap</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-24" playOrder="24">
+          <navLabel>
+            <text>Nobody Kill Any Virgins!</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-25" playOrder="25">
+          <navLabel>
+            <text>There&#x2019;s an Innocent Girl Trapped Somewhere in There?</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-26" playOrder="26">
+          <navLabel>
+            <text>We&#x2019;re Not Just Hunting Anymore: We&#x2019;re at War!</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-27" playOrder="27">
+          <navLabel>
+            <text>I Might Be a Freak, But That&#x2019;s Not the Same as Dangerous</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-28" playOrder="28">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c03.xhtml#head7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-29" playOrder="29">
+        <navLabel>
+          <text>Chapter 4: Team Free Will</text>
+        </navLabel>
+        <content src="9781118615997_c04.xhtml" />
+        <navPoint id="navpoint-30" playOrder="30">
+          <navLabel>
+            <text>The Family Business</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-31" playOrder="31">
+          <navLabel>
+            <text>Free Will and Bad Faith</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-32" playOrder="32">
+          <navLabel>
+            <text>Family Matters in Moral Responsibility</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-33" playOrder="33">
+          <navLabel>
+            <text>How Free Can a Will Be and Still Be Free?</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-34" playOrder="34">
+          <navLabel>
+            <text>Moral Responsibility and Anguish</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-35" playOrder="35">
+          <navLabel>
+            <text>Go Team!</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-36" playOrder="36">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c04.xhtml#head7" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-37" playOrder="37">
+      <navLabel>
+        <text>Part Two: LIFE, LIBERTY, AND THE APOCALYPSE</text>
+      </navLabel>
+      <content src="9781118615997_p02.xhtml" />
+      <navPoint id="navpoint-38" playOrder="38">
+        <navLabel>
+          <text>Chapter 5: What the Hell Is Going On?</text>
+        </navLabel>
+        <content src="9781118615997_c05.xhtml" />
+        <navPoint id="navpoint-39" playOrder="39">
+          <navLabel>
+            <text>The Road to Hell</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-40" playOrder="40">
+          <navLabel>
+            <text>I Saw Hellraiser, I Get the Gist</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-41" playOrder="41">
+          <navLabel>
+            <text>Who the Hell Do You Think You Are?</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-42" playOrder="42">
+          <navLabel>
+            <text>To Hell with You</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-43" playOrder="43">
+          <navLabel>
+            <text>Hell in a Hand Basket</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-44" playOrder="44">
+          <navLabel>
+            <text>Not a Chance in Hell</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-45" playOrder="45">
+          <navLabel>
+            <text>What the Hell?</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head7" />
+        </navPoint>
+        <navPoint id="navpoint-46" playOrder="46">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c05.xhtml#head8" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-47" playOrder="47">
+        <navLabel>
+          <text>Chapter 6: Try Hell, It&#x2019;s a Democracy and the Weather Is Warm</text>
+        </navLabel>
+        <content src="9781118615997_c06.xhtml" />
+        <navPoint id="navpoint-48" playOrder="48">
+          <navLabel>
+            <text>The Angels Are Coming, the Angels Are Coming</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-49" playOrder="49">
+          <navLabel>
+            <text>For Thine Is the Kingdom, and the Power, and the Glory</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-50" playOrder="50">
+          <navLabel>
+            <text>Absolute Power</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-51" playOrder="51">
+          <navLabel>
+            <text>Escaping the State of War: or Why God Makes a Lousy King</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-52" playOrder="52">
+          <navLabel>
+            <text>Hell Is a Democracy</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-53" playOrder="53">
+          <navLabel>
+            <text>The Leviathan</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-54" playOrder="54">
+          <navLabel>
+            <text>Crowley for President!</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head7" />
+        </navPoint>
+        <navPoint id="navpoint-55" playOrder="55">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c06.xhtml#head8" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-56" playOrder="56">
+        <navLabel>
+          <text>Chapter 7: Hunting the American Dream</text>
+        </navLabel>
+        <content src="9781118615997_c07.xhtml" />
+        <navPoint id="navpoint-57" playOrder="57">
+          <navLabel>
+            <text>The Specter of Marx and Supernatural Capitalism</text>
+          </navLabel>
+          <content src="9781118615997_c07.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-58" playOrder="58">
+          <navLabel>
+            <text>Why It&#x2019;s a Terrible Life</text>
+          </navLabel>
+          <content src="9781118615997_c07.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-59" playOrder="59">
+          <navLabel>
+            <text>The Devil You Now Know</text>
+          </navLabel>
+          <content src="9781118615997_c07.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-60" playOrder="60">
+          <navLabel>
+            <text>Can You Handle the Truth?</text>
+          </navLabel>
+          <content src="9781118615997_c07.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-61" playOrder="61">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c07.xhtml#head5" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-62" playOrder="62">
+        <navLabel>
+          <text>Chapter 8: Mothers, Lovers, and Other Monsters</text>
+        </navLabel>
+        <content src="9781118615997_c08.xhtml" />
+        <navPoint id="navpoint-63" playOrder="63">
+          <navLabel>
+            <text>Kant and Objectification</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-64" playOrder="64">
+          <navLabel>
+            <text>The Winchesters and Women</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-65" playOrder="65">
+          <navLabel>
+            <text>The Warrior Mother</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-66" playOrder="66">
+          <navLabel>
+            <text>Lovers, Utilitarianism, and the Mission</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-67" playOrder="67">
+          <navLabel>
+            <text>Sam and Dean Self-Esteem</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-68" playOrder="68">
+          <navLabel>
+            <text>But Sam and Dean Are So Pretty</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-69" playOrder="69">
+          <navLabel>
+            <text>The Conduct of War</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head7" />
+        </navPoint>
+        <navPoint id="navpoint-70" playOrder="70">
+          <navLabel>
+            <text>And Other Monsters</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head8" />
+        </navPoint>
+        <navPoint id="navpoint-71" playOrder="71">
+          <navLabel>
+            <text>No Rest for the Wicked</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head9" />
+        </navPoint>
+        <navPoint id="navpoint-72" playOrder="72">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c08.xhtml#head10" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-73" playOrder="73">
+        <navLabel>
+          <text>Chapter 9: Night of the Living Dead Demons and a Life Worth Living</text>
+        </navLabel>
+        <content src="9781118615997_c09.xhtml" />
+        <navPoint id="navpoint-74" playOrder="74">
+          <navLabel>
+            <text>A Night to Remember</text>
+          </navLabel>
+          <content src="9781118615997_c09.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-75" playOrder="75">
+          <navLabel>
+            <text>When Is a Choice Not a Choice?</text>
+          </navLabel>
+          <content src="9781118615997_c09.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-76" playOrder="76">
+          <navLabel>
+            <text>All&#x2019;s Well That Ends Well</text>
+          </navLabel>
+          <content src="9781118615997_c09.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-77" playOrder="77">
+          <navLabel>
+            <text>D&#x00E9;nouement: Teaching a Dead Dog, New Tricks</text>
+          </navLabel>
+          <content src="9781118615997_c09.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-78" playOrder="78">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c09.xhtml#head5" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-79" playOrder="79">
+      <navLabel>
+        <text>Part Three: EVIL BY DESIGN</text>
+      </navLabel>
+      <content src="9781118615997_p03.xhtml" />
+      <navPoint id="navpoint-80" playOrder="80">
+        <navLabel>
+          <text>Chapter 10: Dean Winchester and the Supernatural Problem of Evil</text>
+        </navLabel>
+        <content src="9781118615997_c10.xhtml" />
+        <navPoint id="navpoint-81" playOrder="81">
+          <navLabel>
+            <text>God&#x2019;s Not With Us, Not Anymore</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-82" playOrder="82">
+          <navLabel>
+            <text>I Got to Believe That I Can Choose What I Do With My Unimportant Little Life</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-83" playOrder="83">
+          <navLabel>
+            <text>A Theory With a Little Less Fairy Dust</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-84" playOrder="84">
+          <navLabel>
+            <text>Just Random Horrible Evil</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-85" playOrder="85">
+          <navLabel>
+            <text>No, He&#x2019;s Not on Any Flatbread</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-86" playOrder="86">
+          <navLabel>
+            <text>Please Give Me a Chance &#x2026;</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-87" playOrder="87">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c10.xhtml#head7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-88" playOrder="88">
+        <navLabel>
+          <text>Chapter 11: Angels and Atheists</text>
+        </navLabel>
+        <content src="9781118615997_c11.xhtml" />
+        <navPoint id="navpoint-89" playOrder="89">
+          <navLabel>
+            <text>Good God Y&#x2019;all</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-90" playOrder="90">
+          <navLabel>
+            <text>Clap Your Hands if You Believe</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-91" playOrder="91">
+          <navLabel>
+            <text>In the Beginning &#x2026;</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-92" playOrder="92">
+          <navLabel>
+            <text>Wishful Thinking</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-93" playOrder="93">
+          <navLabel>
+            <text>Are You There, God? It&#x2019;s Me, Dean Winchester</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-94" playOrder="94">
+          <navLabel>
+            <text>Out With the Old</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-95" playOrder="95">
+          <navLabel>
+            <text>Note</text>
+          </navLabel>
+          <content src="9781118615997_c11.xhtml#head7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-96" playOrder="96">
+        <navLabel>
+          <text>Chapter 12: Oh God, You Devil</text>
+        </navLabel>
+        <content src="9781118615997_c12.xhtml" />
+        <navPoint id="navpoint-97" playOrder="97">
+          <navLabel>
+            <text>Ruby&#x2019;s Lesson</text>
+          </navLabel>
+          <content src="9781118615997_c12.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-98" playOrder="98">
+          <navLabel>
+            <text>Forgetting What You Are</text>
+          </navLabel>
+          <content src="9781118615997_c12.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-99" playOrder="99">
+          <navLabel>
+            <text>Love and Redemption and Every Damn Demon</text>
+          </navLabel>
+          <content src="9781118615997_c12.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-100" playOrder="100">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c12.xhtml#head4" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-101" playOrder="101">
+      <navLabel>
+        <text>Part Four: IT&#x2019;S SUPERNATURAL</text>
+      </navLabel>
+      <content src="9781118615997_p04.xhtml" />
+      <navPoint id="navpoint-102" playOrder="102">
+        <navLabel>
+          <text>Chapter 13: Naturally Supernatural</text>
+        </navLabel>
+        <content src="9781118615997_c13.xhtml" />
+        <navPoint id="navpoint-103" playOrder="103">
+          <navLabel>
+            <text>Fiction, Myth, and Weirdness</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-104" playOrder="104">
+          <navLabel>
+            <text>Isn&#x2019;t This What Dictionaries Are For?</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-105" playOrder="105">
+          <navLabel>
+            <text>Small Comforts from the Causal Nexus</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-106" playOrder="106">
+          <navLabel>
+            <text>Getting Literally Too Literal</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-107" playOrder="107">
+          <navLabel>
+            <text>Being Two With Nature5</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-108" playOrder="108">
+          <navLabel>
+            <text>A Science of the Supernatural</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-109" playOrder="109">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c13.xhtml#head7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-110" playOrder="110">
+        <navLabel>
+          <text>Chapter 14: Masculinity and Supernatural Love</text>
+        </navLabel>
+        <content src="9781118615997_c14.xhtml" />
+        <navPoint id="navpoint-111" playOrder="111">
+          <navLabel>
+            <text>The Warrior</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-112" playOrder="112">
+          <navLabel>
+            <text>The Sovereign</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-113" playOrder="113">
+          <navLabel>
+            <text>Cosmic Battle of Ideals</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-114" playOrder="114">
+          <navLabel>
+            <text>The Dirty Word in Supernatural, the L-Word</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head4" />
+        </navPoint>
+        <navPoint id="navpoint-115" playOrder="115">
+          <navLabel>
+            <text>Supernatural on Femininity: Less Than Admiration</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head5" />
+        </navPoint>
+        <navPoint id="navpoint-116" playOrder="116">
+          <navLabel>
+            <text>Erotically Co-Dependent?</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head6" />
+        </navPoint>
+        <navPoint id="navpoint-117" playOrder="117">
+          <navLabel>
+            <text>The Paradox of Love in Supernatural</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head7" />
+        </navPoint>
+        <navPoint id="navpoint-118" playOrder="118">
+          <navLabel>
+            <text>Notes</text>
+          </navLabel>
+          <content src="9781118615997_c14.xhtml#head8" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-119" playOrder="119">
+        <navLabel>
+          <text>Chapter 15: Naturalizing Supernatural</text>
+        </navLabel>
+        <content src="9781118615997_c15.xhtml" />
+        <navPoint id="navpoint-120" playOrder="120">
+          <navLabel>
+            <text>What Do a Naturalist and a Supernaturalist Have in Common?</text>
+          </navLabel>
+          <content src="9781118615997_c15.xhtml#head1" />
+        </navPoint>
+        <navPoint id="navpoint-121" playOrder="121">
+          <navLabel>
+            <text>The War in Heaven and Naturally Averting God&#x2019;s Plan</text>
+          </navLabel>
+          <content src="9781118615997_c15.xhtml#head2" />
+        </navPoint>
+        <navPoint id="navpoint-122" playOrder="122">
+          <navLabel>
+            <text>The Soul: Supernatural Genetic Code</text>
+          </navLabel>
+          <content src="9781118615997_c15.xhtml#head3" />
+        </navPoint>
+        <navPoint id="navpoint-123" playOrder="123">
+          <navLabel>
+            <text>Naturally All Part of the Plan</text>
+          </navLabel>
+          <content src="9781118615997_c15.xhtml#head4" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      <navPoint id="navpoint-124" playOrder="124">
+        <navLabel>
+          <text>Contributors: Bona Fide, Card Carrying Wisdom Lovers and GhostPhacers
+</text>
+        </navLabel>
+        <content src="9781118615997_contribute.xhtml" />
+      </navPoint>
+    <navPoint id="navpoint-125" playOrder="125">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="9781118615997_index.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
