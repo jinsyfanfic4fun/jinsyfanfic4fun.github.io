@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/01/12/Supernatural_Bobby_Singers_Guide_to_Hunting/</loc>
+    
+    <lastmod>2022-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/12/09/there_will_be_peace_when_you_are_done/</loc>
     
     <lastmod>2022-01-16</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>http://example.com/2022/01/12/family_dont_end_with_blood/</loc>
-    
-    <lastmod>2022-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/01/12/Supernatural_Bobby_Singers_Guide_to_Hunting/</loc>
     
     <lastmod>2022-01-16</lastmod>
     
