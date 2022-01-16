@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:rating" content="10.00"/>
+    <dc:contributor opf:role="bkp">calibre (3.28.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:file-as="Zubernis, Lynn S." opf:role="aut">Lynn S. Zubernis</dc:creator>
+    <dc:publisher>Smart Pop</dc:publisher>
+    <dc:date>2017-05-09T05:00:00+00:00</dc:date>
+    <meta name="calibre:title_sort" content="Family Don't End With Blood"/>
+    <meta name="cover" content="cover"/>
+    <dc:title>Family Don't End With Blood</dc:title>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Supernatural&lt;/em&gt;, a three-time People’s Choice Award winner for Favorite Sci-Fi/Fantasy TV Show and Tumblr’s 2015 Most Reblogged “Live Action TV,” has made a name for itself by supporting and encouraging its fans to “always keep fighting,” and a memorable line from early in the show’s run, “Family don’t end with blood,” became an inspiring mantra for many who found community in the fandom.&lt;/p&gt;&lt;p&gt;In 25 powerful chapters written by  &lt;em&gt;Supernatural’&lt;/em&gt;s actors and fans, including series lead Jared Padalecki, plus special messages from Jensen Ackles, Misha Collins, and Mark Sheppard, &lt;em&gt;Family Don’t End with Blood: Cast and Fans On How Supernatural Has Changed Lives &lt;/em&gt;examines the far reach of the show’s impact for more than a decade. &lt;em&gt;Supernatural &lt;/em&gt;has inspired fans to change their lives, from getting “sober for Sam” to escaping a cult to pursuing life-long dreams. But fans aren’t the only ones who have been changed. The actors who bring the show to life have also found, in the show and its community, inspiration, courage, and the strength to keep going when life seemed too hard. &lt;/p&gt;&lt;p&gt;Including essays and special messages from &lt;em&gt;Supernatural&lt;/em&gt; ’s cast:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Jared Padelecki (“Sam Winchester”)&lt;/li&gt;
+&lt;li&gt;Jensen Ackles (“Dean Winchester”)&lt;/li&gt;
+&lt;li&gt;Misha Collins (“Castiel”)&lt;/li&gt;
+&lt;li&gt;Mark Sheppard (“Crowley”)&lt;/li&gt;
+&lt;li&gt;Jim Beaver (“Bobby Singer”)&lt;/li&gt;
+&lt;li&gt;Ruth Connell (“Rowena MacLeod”)&lt;/li&gt;
+&lt;li&gt;Osric Chau (“Kevin Tran”)&lt;/li&gt;
+&lt;li&gt;Rob Benedict (“Chuck Shurley aka God”)&lt;/li&gt;
+&lt;li&gt;Kim Rhodes (“Sheriff Jody Mills”)&lt;/li&gt;
+&lt;li&gt;Briana Buckmaster (“Sheriff Donna Hanscum”)&lt;/li&gt;
+&lt;li&gt;Matt Cohen (“Young John Winchester”)&lt;/li&gt;
+&lt;li&gt;Gil McKinney (“Henry Winchester”)&lt;/li&gt;
+&lt;li&gt;Rachel Miner (“Meg Masters”)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Collected and edited by Lynn S. Zubernis, a clinical psychologist, professor, and passionate &lt;em&gt;Supernatural &lt;/em&gt;fangirl, &lt;em&gt;Family Don’t End with Blood &lt;/em&gt;provides an insightful and often uplifting look into the way international fan communities become powerful, positive forces in the lives of so many.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta name="calibre:timestamp" content="2018-08-02T05:53:33.505000+00:00"/>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="ISBN">9781944648350</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">1944648356</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0de92d29-3868-4cd7-b510-ef53e9fce81e</dc:identifier>
+    <dc:identifier opf:scheme="calibre">0de92d29-3868-4cd7-b510-ef53e9fce81e</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_split_000.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="index-1_split_001.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="index-1_split_002.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

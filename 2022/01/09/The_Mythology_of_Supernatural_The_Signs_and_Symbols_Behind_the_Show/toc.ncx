@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="9a1054b4-dcd9-4c85-8ba1-66407e67b148" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.34)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Mythology of Supernatural</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="tp" playOrder="1">
+      <navLabel>
+        <text>Cover Page</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_cover_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="tp" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_tp_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="tp" playOrder="3">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_toc_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="cop" playOrder="4">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_cop_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="ded" playOrder="5">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_ded_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="ack" playOrder="6">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_ack_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="itr" playOrder="7">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_itr_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c01" playOrder="8">
+      <navLabel>
+        <text>1 - THE WINCHESTER ARSENAL</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c01_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c02" playOrder="9">
+      <navLabel>
+        <text>2 - SIGNS, VISIONS, SEALS, AND SIGILS</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c02_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c03" playOrder="10">
+      <navLabel>
+        <text>3 - A CRASH COURSE IN DEMONOLOGY</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c03_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c04" playOrder="11">
+      <navLabel>
+        <text>4 - ANGELS . . . THEY SMITE FIRST AND ASK QUESTIONS LATER</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c04_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c05" playOrder="12">
+      <navLabel>
+        <text>5 - LIKE A BAT OUT OF HELL</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c05_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c06" playOrder="13">
+      <navLabel>
+        <text>6 - BEYOND THE GATES OF HEAVEN</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c06_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c07" playOrder="14">
+      <navLabel>
+        <text>7 - DEMONIC POSSESSIONS AND EXORCISMS</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c07_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c08" playOrder="15">
+      <navLabel>
+        <text>8 - LILITH IS ONE SCARY BITCH</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c08_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c09" playOrder="16">
+      <navLabel>
+        <text>9 - ANCIENT ORIGINS OF A FUTURE APOCALYPSE</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c09_r1_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c10" playOrder="17">
+      <navLabel>
+        <text>10 - THE WINCHESTER GOSPEL— SUPERNATURAL AS MYTH</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c10_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="c11" playOrder="18">
+      <navLabel>
+        <text>11 - ARMAGEDDON IT!</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_c11_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="bm1" playOrder="19">
+      <navLabel>
+        <text>CONCLUSION</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_bm1_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="bib" playOrder="20">
+      <navLabel>
+        <text>BIBLIOGRAPHY</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_bib_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="in1" playOrder="21">
+      <navLabel>
+        <text>INDEX</text>
+      </navLabel>
+      <content src="OEBPS/brow_9781101517529_oeb_in1_r1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

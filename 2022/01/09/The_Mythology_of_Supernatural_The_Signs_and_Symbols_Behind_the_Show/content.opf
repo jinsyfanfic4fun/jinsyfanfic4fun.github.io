@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Penguin Group, Inc.</dc:publisher>
+    <dc:rights>Copyright © 2011 by Nathan Brown</dc:rights>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Brown, Nathan Robert" opf:role="aut">Nathan Robert Brown</dc:creator>
+    <meta name="calibre:timestamp" content="2012-01-16T16:20:56+00:00"/>
+    <dc:title>The Mythology of Supernatural</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2011-08-02T04:00:00+00:00</dc:date>
+    <meta name="calibre:title_sort" content="Mythology of Supernatural, The"/>
+    <dc:contributor opf:role="bkp">calibre (0.8.34) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="SONYBOOKID">CBUSCEPGI02QP205</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9a1054b4-dcd9-4c85-8ba1-66407e67b148</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/brow_9781101517529_msr_cvi_r1.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="OEBPS/brow_9781101517529_oeb_001_r1.jpg" id="brow_9781101517529_oeb_001_r1" media-type="image/jpeg"/>
+    <item href="OEBPS/brow_9781101517529_oeb_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_bib_r1.xhtml" id="bib" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_bm1_r1.xhtml" id="bm1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c01_r1.xhtml" id="c01" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c02_r1.xhtml" id="c02" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c03_r1.xhtml" id="c03" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c04_r1.xhtml" id="c04" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c05_r1.xhtml" id="c05" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c06_r1.xhtml" id="c06" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c07_r1.xhtml" id="c07" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c08_r1.xhtml" id="c08" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c09_r1_split_000.xhtml" id="c092" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c09_r1_split_001.xhtml" id="c091" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c10_r1.xhtml" id="c10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_c11_r1.xhtml" id="c11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_cover_r1.xhtml" id="2cd87b65-3d34-489a-99fb-df403f9069de" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_in1_r1.xhtml" id="in1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_itr_r1.xhtml" id="itr" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_toc_r1.xhtml" id="toc" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/brow_9781101517529_oeb_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="2cd87b65-3d34-489a-99fb-df403f9069de"/>
+    <itemref idref="tp"/>
+    <itemref idref="toc"/>
+    <itemref idref="cop"/>
+    <itemref idref="ded"/>
+    <itemref idref="ack"/>
+    <itemref idref="itr"/>
+    <itemref idref="c01"/>
+    <itemref idref="c02"/>
+    <itemref idref="c03"/>
+    <itemref idref="c04"/>
+    <itemref idref="c05"/>
+    <itemref idref="c06"/>
+    <itemref idref="c07"/>
+    <itemref idref="c08"/>
+    <itemref idref="c092"/>
+    <itemref idref="c091"/>
+    <itemref idref="c10"/>
+    <itemref idref="c11"/>
+    <itemref idref="bm1"/>
+    <itemref idref="bib"/>
+    <itemref idref="in1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="OEBPS/brow_9781101517529_oeb_toc_r1.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

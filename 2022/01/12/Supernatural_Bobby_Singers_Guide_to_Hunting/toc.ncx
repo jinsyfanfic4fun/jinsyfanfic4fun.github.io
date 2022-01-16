@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e0ad2d8f-1cba-4c44-b1fd-e4a5512da326" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.20)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Supernatural: Bobby Singer's Guide to Hunting</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="590e127c-d608-4215-b2a2-ab71e220e22b" playOrder="0">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="dummy_split_000.html#filepos433153"/>
+    </navPoint>
+    <navPoint class="chapter" id="7b626cfe-fd41-45aa-aed2-85c514ce9a8e" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="dummy_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="992b9779-299a-46e5-9959-1a3800014a67" playOrder="2">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="dummy_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fe7026e3-337a-4688-844f-a284bba50a12" playOrder="3">
+      <navLabel>
+        <text>A Hole in My Brain</text>
+      </navLabel>
+      <content src="dummy_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0fc76383-6d01-4e1d-9b4c-075c08f90469" playOrder="4">
+      <navLabel>
+        <text>The Banshee of Ashland</text>
+      </navLabel>
+      <content src="dummy_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="617f02ab-2d8f-4fc8-b074-0d0217a115ea" playOrder="5">
+      <navLabel>
+        <text>This Isn’t Funny</text>
+      </navLabel>
+      <content src="dummy_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f1302edc-a959-4b92-b35f-d9445840e6a8" playOrder="6">
+      <navLabel>
+        <text>Karen</text>
+      </navLabel>
+      <content src="dummy_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fbb47c2e-40ba-4dfd-87b9-b59e272d6443" playOrder="7">
+      <navLabel>
+        <text>Demons</text>
+      </navLabel>
+      <content src="dummy_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="2b67f66a-dd2b-443e-b746-47547315ebcd" playOrder="8">
+      <navLabel>
+        <text>Angels</text>
+      </navLabel>
+      <content src="dummy_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="51f23e9a-ea76-406e-87cc-a803fd915412" playOrder="9">
+      <navLabel>
+        <text>Anansesem</text>
+      </navLabel>
+      <content src="dummy_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="77a3eee4-b043-43bd-aaa2-1f4f38b6b5c6" playOrder="10">
+      <navLabel>
+        <text>The Crusher</text>
+      </navLabel>
+      <content src="dummy_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="53b67450-bb51-45b4-80fc-7b38c04e468e" playOrder="11">
+      <navLabel>
+        <text>And Then, I Ran</text>
+      </navLabel>
+      <content src="dummy_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="16a1d031-1105-4cd3-95b5-727d6371a41a" playOrder="12">
+      <navLabel>
+        <text>Nishigo Maru</text>
+      </navLabel>
+      <content src="dummy_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="facc5213-201e-4a1c-99e2-094031d35464" playOrder="13">
+      <navLabel>
+        <text>Japan</text>
+      </navLabel>
+      <content src="dummy_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b3d1261c-491b-4d6e-a3d8-74547ae22545" playOrder="14">
+      <navLabel>
+        <text>Rufus</text>
+      </navLabel>
+      <content src="dummy_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="aa284f4c-c880-4d4e-85a3-0a9c2304e355" playOrder="15">
+      <navLabel>
+        <text>Something Good</text>
+      </navLabel>
+      <content src="dummy_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6f032b64-bc03-41c8-a536-56074774b17a" playOrder="16">
+      <navLabel>
+        <text>The Rules</text>
+      </navLabel>
+      <content src="dummy_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0b38bc81-1a13-4473-8113-b21d15a2a689" playOrder="17">
+      <navLabel>
+        <text>Where Am I Now?</text>
+      </navLabel>
+      <content src="dummy_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c79d04f5-fb75-4442-baf0-e0774bc6cdf7" playOrder="18">
+      <navLabel>
+        <text>John Winchester</text>
+      </navLabel>
+      <content src="dummy_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="4f18c588-f8f0-42fb-bd7a-2c262f6eb506" playOrder="19">
+      <navLabel>
+        <text>The Shit List</text>
+      </navLabel>
+      <content src="dummy_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="05e2e4d4-b008-4661-b944-35c9dff1bdb5" playOrder="20">
+      <navLabel>
+        <text>Tastes Like Chicken</text>
+      </navLabel>
+      <content src="dummy_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0999e8ac-33c2-49d0-8af7-4793ecece697" playOrder="21">
+      <navLabel>
+        <text>Alphas</text>
+      </navLabel>
+      <content src="dummy_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c09626d4-c898-4bb8-9881-eb1861f0d248" playOrder="22">
+      <navLabel>
+        <text>Dragons</text>
+      </navLabel>
+      <content src="dummy_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="312f484c-0b5a-4cba-9913-76ba8c37806f" playOrder="23">
+      <navLabel>
+        <text>Names</text>
+      </navLabel>
+      <content src="dummy_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="b2a9d3d0-400f-45fe-b29c-608448aaeae0" playOrder="24">
+      <navLabel>
+        <text>Omaha</text>
+      </navLabel>
+      <content src="dummy_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="3dc39182-4e20-49fb-8995-856165d74a3b" playOrder="25">
+      <navLabel>
+        <text>The Departed</text>
+      </navLabel>
+      <content src="dummy_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="cd61a158-d447-49f5-bbc3-f8827baa4491" playOrder="26">
+      <navLabel>
+        <text>Fried Foods</text>
+      </navLabel>
+      <content src="dummy_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fc58726d-11b5-4c9b-a8dc-2d5996b843f5" playOrder="27">
+      <navLabel>
+        <text>Last Will and Testament</text>
+      </navLabel>
+      <content src="dummy_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0eae2653-2003-4dcb-98a0-38c558bdce97" playOrder="28">
+      <navLabel>
+        <text>Sam and Dean</text>
+      </navLabel>
+      <content src="dummy_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c043748b-59b7-4d34-b2fd-b3851ea85c84" playOrder="29">
+      <navLabel>
+        <text>Oblivion</text>
+      </navLabel>
+      <content src="dummy_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c998c821-5987-4f90-919f-25680e3a168f" playOrder="30">
+      <navLabel>
+        <text>The Hidden Memory</text>
+      </navLabel>
+      <content src="dummy_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="201c2bc2-c390-4b65-a6df-41b00a7bc21e" playOrder="31">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="dummy_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5f98326c-7767-49c5-9004-eaf8b595609f" playOrder="32">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="dummy_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f919a5e6-8ff4-4ec7-a748-7fc4568b7e85" playOrder="33">
+      <navLabel>
+        <text>Also by David Reed</text>
+      </navLabel>
+      <content src="dummy_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0701ba52-890b-4675-8302-9d316c926ee6" playOrder="34">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="dummy_split_034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="944e7eb1-fe4f-4527-a466-5b7ce9c202ee" playOrder="35">
+      <navLabel>
+        <text>About the Publisher</text>
+      </navLabel>
+      <content src="dummy_split_035.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
