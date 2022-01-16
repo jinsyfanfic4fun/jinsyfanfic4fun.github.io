@@ -1,0 +1,260 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="PrimaryID" version="3.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="title" xml:lang="en">Supernatural Psychology</dc:title>
+    <meta property="title-type" refines="#title">main</meta>
+    <dc:identifier id="PrimaryID">978-1-4549-2662-7</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="creator">Travis Langley</dc:creator>
+    <meta property="role" refines="#creator" scheme="marc:relators">edt</meta>
+    <meta property="file-as" refines="#creator">Langley, Travis</meta>
+    <dc:creator id="creator1">Lynn Zubernis</dc:creator>
+    <meta property="role" refines="#creator1" scheme="marc:relators">edt</meta>
+    <meta property="file-as" refines="#creator1">Zubernis, Lynn</meta>
+    <dc:rights>Copyright © 2017 Travis Langley</dc:rights>
+    <meta id="isbn" property="dcterms:identifer">978-1-4549-2662-7</meta>
+    <meta property="ibooks:version">1.0</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:language">en</meta>
+    <meta property="dcterms:modified">2017-11-03T11:19:37Z</meta>
+    <meta property="dcterms:publisher">Sterling</meta>
+    <meta property="dcterms:date">2017-11-07</meta>
+    <meta content="my_cover_image" name="cover"/>
+    <meta content="0.9.8" name="Sigil version"/>
+  <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;&lt;B&gt;A fascinating analysis of the psychology behind the popular TV series &lt;I&gt;Supernatural&lt;/I&gt;.&lt;/B&gt;&lt;BR /&gt; Following the adventures of two brothers who investigate deeply strange and paranormal mysteries in their never-ending road trip, the TV show &lt;I&gt;Supernatural&lt;/I&gt; has many fans eager to better understand the psychology behind the series' themes and characters. Through 20 essays, this collection examines such issues as &lt;li&gt;The role grief and trauma play in the protagonists' lives&lt;/li&gt;&lt;li&gt;The importance of music to the narrative&lt;/li&gt;&lt;li&gt;What motivates someone to hunt monsters and why we want to believe in magic&lt;/li&gt;&lt;li&gt;The various archangels and archetypes depicted&lt;/li&gt;&lt;li&gt;How people can cope with tragedy, loss, addiction, and fear to become heroes who do the right thing&lt;/li&gt;&lt;li&gt;The dynamics of fandom: how fans relate to the narrative, characters, and actors, and continue to engage with series through fanfic, social media, and other practices&lt;/li&gt;</description>
+<publisher xmlns="http://purl.org/dc/elements/1.1/">Sterling</publisher>
+</metadata>
+  <manifest>
+    <item href="Text/nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/9781454926627_epub_cvi_r1.xhtml" id="cvi" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_tp_r1.xhtml" id="tp" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_cop_r1.xhtml" id="cop" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_ded_r1.xhtml" id="ded" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_toc_r1.xhtml" id="toc" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_ack_r1.xhtml" id="ack" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_nts_ack_r1.xhtml" id="nts_ack" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_frw_r1.xhtml" id="frw" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_frd_nts_r1.xhtml" id="frd_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_itr_r1.xhtml" id="itr" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_itr_nts_r1.xhtml" id="itr_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p01_r1.xhtml" id="p01" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c01_r1.xhtml" id="c01" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c01_nts_r1.xhtml" id="c01_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c02_r1.xhtml" id="c02" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c02_nts_r1.xhtml" id="c02_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c03_r1.xhtml" id="c03" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c03_nts_r1.xhtml" id="c03_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c04_r1.xhtml" id="c04" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c04_nts_r1.xhtml" id="c04_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c05_r1.xhtml" id="c05" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c05_nts_r1.xhtml" id="c05_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p01_bm1_r1.xhtml" id="p01_bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p01_bm1_nts_r1.xhtml" id="p01_bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p02_r1.xhtml" id="p02" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c06_r1.xhtml" id="c06" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c06_nts_r1.xhtml" id="c06_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c07_r1.xhtml" id="c07" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c07_nts_r1.xhtml" id="c07_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c08_r1.xhtml" id="c08" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c08_nts_r1.xhtml" id="c08_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c09_r1.xhtml" id="c09" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c09_nts_r1.xhtml" id="c09_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p02_bm1_r1.xhtml" id="p02_bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p02_bm1_nts_r1.xhtml" id="p02_bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p03_r1.xhtml" id="p03" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c10_r1.xhtml" id="c10" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c10_nts_r1.xhtml" id="c10_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c11_r1.xhtml" id="c11" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c11_nts_r1.xhtml" id="c11_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c12_r1.xhtml" id="c12" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c12_nts_r1.xhtml" id="c12_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c13_r1.xhtml" id="c13" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c13_nts_r1.xhtml" id="c13_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p03_bm1_r1.xhtml" id="p03_bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p03_bm1_nts_r1.xhtml" id="p03_bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p04_r1.xhtml" id="p04" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c14_r1.xhtml" id="c14" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c14_nts_r1.xhtml" id="c14_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c15_r1.xhtml" id="c15" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c15_nts_r1.xhtml" id="c15_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c16_r1.xhtml" id="c16" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c16_nts_r1.xhtml" id="c16_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c17_r1.xhtml" id="c17" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c17_nts_r1.xhtml" id="c17_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p04_bm1_r1.xhtml" id="p04_bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p04_bm1_nts_r1.xhtml" id="p04_bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p05_r1.xhtml" id="p05" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c18_r1.xhtml" id="c18" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c18_nts_r1.xhtml" id="c18_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c19_r1.xhtml" id="c19" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c19_nts_r1.xhtml" id="c19_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c20_r1.xhtml" id="c20" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c20_nts_r1.xhtml" id="c20_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c21_r1.xhtml" id="c21" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_c21_nts_r1.xhtml" id="c21_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p05_bm1_r1.xhtml" id="p05_bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_p05_bm1_nts_r1.xhtml" id="p05_bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_bm1_r1.xhtml" id="bm1" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_bm1_nts_r1.xhtml" id="bm1_nts" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_ata_r1.xhtml" id="ata" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_bm2_r1.xhtml" id="bm2" media-type="application/xhtml+xml"/>
+    <item href="Text/9781454926627_epub_bm3_r1.xhtml" id="bm3" media-type="application/xhtml+xml"/>
+    <item href="Styles/9781454926627_epub_css_r1.css" id="css" media-type="text/css"/>
+    <item href="Images/004-1.jpg" id="img004-1" media-type="image/jpeg"/>
+    <item href="Images/005-1.jpg" id="img005-1" media-type="image/jpeg"/>
+    <item href="Images/006-1.jpg" id="img006-1" media-type="image/jpeg"/>
+    <item href="Images/008-1.jpg" id="img008-1" media-type="image/jpeg"/>
+    <item href="Images/009-1.jpg" id="img009-1" media-type="image/jpeg"/>
+    <item href="Images/019-2.jpg" id="img019-2" media-type="image/jpeg"/>
+    <item href="Images/025-1.jpg" id="img025-1" media-type="image/jpeg"/>
+    <item href="Images/030-1.jpg" id="img030-1" media-type="image/jpeg"/>
+    <item href="Images/031-1.jpg" id="img031-1" media-type="image/jpeg"/>
+    <item href="Images/040-1.jpg" id="img040-1" media-type="image/jpeg"/>
+    <item href="Images/041-1.jpg" id="img041-1" media-type="image/jpeg"/>
+    <item href="Images/043-1.jpg" id="img043-1" media-type="image/jpeg"/>
+    <item href="Images/054-1.jpg" id="img054-1" media-type="image/jpeg"/>
+    <item href="Images/055-1.jpg" id="img055-1" media-type="image/jpeg"/>
+    <item href="Images/067-1.jpg" id="img067-1" media-type="image/jpeg"/>
+    <item href="Images/079-1.jpg" id="img079-1" media-type="image/jpeg"/>
+    <item href="Images/083-1.jpg" id="img083-1" media-type="image/jpeg"/>
+    <item href="Images/084-1.jpg" id="img084-1" media-type="image/jpeg"/>
+    <item href="Images/087-1.jpg" id="img087-1" media-type="image/jpeg"/>
+    <item href="Images/105-1.jpg" id="img105-1" media-type="image/jpeg"/>
+    <item href="Images/117-1.jpg" id="img117-1" media-type="image/jpeg"/>
+    <item href="Images/133-1.jpg" id="img133-1" media-type="image/jpeg"/>
+    <item href="Images/145-1.jpg" id="img145-1" media-type="image/jpeg"/>
+    <item href="Images/150-1.jpg" id="img150-1" media-type="image/jpeg"/>
+    <item href="Images/153-1.jpg" id="img153-1" media-type="image/jpeg"/>
+    <item href="Images/163-1.jpg" id="img163-1" media-type="image/jpeg"/>
+    <item href="Images/175-1.jpg" id="img175-1" media-type="image/jpeg"/>
+    <item href="Images/187-1.jpg" id="img187-1" media-type="image/jpeg"/>
+    <item href="Images/199-1.jpg" id="img199-1" media-type="image/jpeg"/>
+    <item href="Images/203-1.jpg" id="img203-1" media-type="image/jpeg"/>
+    <item href="Images/205-1.jpg" id="img205-1" media-type="image/jpeg"/>
+    <item href="Images/219-1.jpg" id="img219-1" media-type="image/jpeg"/>
+    <item href="Images/231-1.jpg" id="img231-1" media-type="image/jpeg"/>
+    <item href="Images/238-1.jpg" id="img238-1" media-type="image/jpeg"/>
+    <item href="Images/243-1.jpg" id="img243-1" media-type="image/jpeg"/>
+    <item href="Images/245-1.jpg" id="img245-1" media-type="image/jpeg"/>
+    <item href="Images/255-1.jpg" id="img255-1" media-type="image/jpeg"/>
+    <item href="Images/258-1.jpg" id="img258-1" media-type="image/jpeg"/>
+    <item href="Images/261-1.jpg" id="img261-1" media-type="image/jpeg"/>
+    <item href="Images/275-1.jpg" id="img275-1" media-type="image/jpeg"/>
+    <item href="Images/278-1.jpg" id="img278-1" media-type="image/jpeg"/>
+    <item href="Images/289-1.jpg" id="img289-1" media-type="image/jpeg"/>
+    <item href="Images/307-1.jpg" id="img307-1" media-type="image/jpeg"/>
+    <item href="Images/321-1.jpg" id="img321-1" media-type="image/jpeg"/>
+    <item href="Images/333-1.jpg" id="img333-1" media-type="image/jpeg"/>
+    <item href="Images/334-1.jpg" id="img334-1" media-type="image/jpeg"/>
+    <item href="Images/335-1.jpg" id="img335-1" media-type="image/jpeg"/>
+    <item href="Images/335-2.jpg" id="img335-2" media-type="image/jpeg"/>
+    <item href="Images/335-3.jpg" id="img335-3" media-type="image/jpeg"/>
+    <item href="Images/336-1.jpg" id="img336-1" media-type="image/jpeg"/>
+    <item href="Images/336-2.jpg" id="img336-2" media-type="image/jpeg"/>
+    <item href="Images/336-3.jpg" id="img336-3" media-type="image/jpeg"/>
+    <item href="Images/337-1.jpg" id="img337-1" media-type="image/jpeg"/>
+    <item href="Images/337-2.jpg" id="img337-2" media-type="image/jpeg"/>
+    <item href="Images/337-3.jpg" id="img337-3" media-type="image/jpeg"/>
+    <item href="Images/337-4.jpg" id="img337-4" media-type="image/jpeg"/>
+    <item href="Images/338-1.jpg" id="img338-1" media-type="image/jpeg"/>
+    <item href="Images/338-2.jpg" id="img338-2" media-type="image/jpeg"/>
+    <item href="Images/338-3.jpg" id="img338-3" media-type="image/jpeg"/>
+    <item href="Images/339-1.jpg" id="img339-1" media-type="image/jpeg"/>
+    <item href="Images/339-2.jpg" id="img339-2" media-type="image/jpeg"/>
+    <item href="Images/339-3.jpg" id="img339-3" media-type="image/jpeg"/>
+    <item href="Images/340-1.jpg" id="img340-1" media-type="image/jpeg"/>
+    <item href="Images/340-2.jpg" id="img340-2" media-type="image/jpeg"/>
+    <item href="Images/340-3.jpg" id="img340-3" media-type="image/jpeg"/>
+    <item href="Images/341-1.jpg" id="img341-1" media-type="image/jpeg"/>
+    <item href="Images/341-2.jpg" id="img341-2" media-type="image/jpeg"/>
+    <item href="Images/341-3.jpg" id="img341-3" media-type="image/jpeg"/>
+    <item href="Images/342-1.jpg" id="img342-1" media-type="image/jpeg"/>
+    <item href="Images/342-2.jpg" id="img342-2" media-type="image/jpeg"/>
+    <item href="Images/342-3.jpg" id="img342-3" media-type="image/jpeg"/>
+    <item href="Images/343-1.jpg" id="img343-1" media-type="image/jpeg"/>
+    <item href="Images/L01.jpg" id="imgL01" media-type="image/jpeg"/>
+    <item href="Images/logo.png" id="imgtp" media-type="image/png"/>
+    <item href="Images/xix.jpg" id="imgxix" media-type="image/jpeg"/>
+    <item href="Images/cvi.jpg" id="my_cover_image" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cvi"/>
+    <itemref idref="tp"/>
+    <itemref idref="cop"/>
+    <itemref idref="ded"/>
+    <itemref idref="toc"/>
+    <itemref idref="ack"/>
+    <itemref idref="nts_ack"/>
+    <itemref idref="frw"/>
+    <itemref idref="frd_nts"/>
+    <itemref idref="itr"/>
+    <itemref idref="itr_nts"/>
+    <itemref idref="p01"/>
+    <itemref idref="c01"/>
+    <itemref idref="c01_nts"/>
+    <itemref idref="c02"/>
+    <itemref idref="c02_nts"/>
+    <itemref idref="c03"/>
+    <itemref idref="c03_nts"/>
+    <itemref idref="c04"/>
+    <itemref idref="c04_nts"/>
+    <itemref idref="c05"/>
+    <itemref idref="c05_nts"/>
+    <itemref idref="p01_bm1"/>
+    <itemref idref="p01_bm1_nts"/>
+    <itemref idref="p02"/>
+    <itemref idref="c06"/>
+    <itemref idref="c06_nts"/>
+    <itemref idref="c07"/>
+    <itemref idref="c07_nts"/>
+    <itemref idref="c08"/>
+    <itemref idref="c08_nts"/>
+    <itemref idref="c09"/>
+    <itemref idref="c09_nts"/>
+    <itemref idref="p02_bm1"/>
+    <itemref idref="p02_bm1_nts"/>
+    <itemref idref="p03"/>
+    <itemref idref="c10"/>
+    <itemref idref="c10_nts"/>
+    <itemref idref="c11"/>
+    <itemref idref="c11_nts"/>
+    <itemref idref="c12"/>
+    <itemref idref="c12_nts"/>
+    <itemref idref="c13"/>
+    <itemref idref="c13_nts"/>
+    <itemref idref="p03_bm1"/>
+    <itemref idref="p03_bm1_nts"/>
+    <itemref idref="p04"/>
+    <itemref idref="c14"/>
+    <itemref idref="c14_nts"/>
+    <itemref idref="c15"/>
+    <itemref idref="c15_nts"/>
+    <itemref idref="c16"/>
+    <itemref idref="c16_nts"/>
+    <itemref idref="c17"/>
+    <itemref idref="c17_nts"/>
+    <itemref idref="p04_bm1"/>
+    <itemref idref="p04_bm1_nts"/>
+    <itemref idref="p05"/>
+    <itemref idref="c18"/>
+    <itemref idref="c18_nts"/>
+    <itemref idref="c19"/>
+    <itemref idref="c19_nts"/>
+    <itemref idref="c20"/>
+    <itemref idref="c20_nts"/>
+    <itemref idref="c21"/>
+    <itemref idref="c21_nts"/>
+    <itemref idref="p05_bm1"/>
+    <itemref idref="p05_bm1_nts"/>
+    <itemref idref="bm1"/>
+    <itemref idref="bm1_nts"/>
+    <itemref idref="ata"/>
+    <itemref idref="bm2"/>
+    <itemref idref="bm3"/>
+  </spine>
+  <guide>
+    <reference href="Text/9781454926627_epub_cvi_r1.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/9781454926627_epub_cop_r1.xhtml" title="Copyright" type="copyright-page"/>
+    <reference href="Text/9781454926627_epub_toc_r1.xhtml" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

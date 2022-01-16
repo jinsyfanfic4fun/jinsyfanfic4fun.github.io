@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="978-1-4549-2662-7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Supernatural Psychology: Roads Less Traveled</text>
+  </docTitle>
+  <docAuthor>
+    <text>Travis Langley and Lynn Zubernis</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="cover" id="cvi" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_cvi_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="titlepage" id="tp" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_tp_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="copyright" id="cop" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_cop_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="toc" playOrder="4">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_toc_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="ack" playOrder="5">
+      <navLabel>
+        <text>Acknowledgments: The Family That Hunts Together | Travis Langley / Lynn S. Zubernis</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_ack_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="frd_nts" playOrder="6">
+      <navLabel>
+        <text>Foreword: Born to Fire | Jonathan Maberry</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_frd_nts_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="itr_nts" playOrder="7">
+      <navLabel>
+        <text>Introduction: The Word and the Why | Mark R. Pellegrino</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_itr_nts_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="p01" playOrder="8">
+      <navLabel>
+        <text>Part I: Flesh and Blood</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_p01_r1.xhtml#p01"/>
+      <navPoint class="chapter" id="c01" playOrder="9">
+        <navLabel>
+          <text>1. The SPN Family: The Psychology of Fandom | Lynn S. Zubernis</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c01_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c02" playOrder="10">
+        <navLabel>
+          <text>2. Family by Choice or by Blood | Elizabeth Kus, Christine Dickson, and Janina Scarlet</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c02_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c03" playOrder="11">
+        <navLabel>
+          <text>3. Losing One Parent is Hard; Losing Them All is Hell | Lara Taylor Kester</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c03_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c04" playOrder="12">
+        <navLabel>
+          <text>4. Carrying on After Parental Loss | Denisse Morales</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c04_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c05" playOrder="13">
+        <navLabel>
+          <text>5. The Good, the Bad, and the Balanced: Q &amp; A with Felicia Day and Amanda Tapping | Travis Langley and Jenna Busch</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c05_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="p01_bm1" playOrder="14">
+        <navLabel>
+          <text>Morgue File I: Denial | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_p01_bm1_r1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="p02" playOrder="15">
+      <navLabel>
+        <text>Part II: Lock and Load</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_p02_r1.xhtml#p02"/>
+      <navPoint class="chapter" id="c06" playOrder="16">
+        <navLabel>
+          <text>6. A Trunk Full of Defense Mechanisms | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c06_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c07" playOrder="17">
+        <navLabel>
+          <text>7. Super Traumatized: Managing PTSD in a Supernatural World | Travis Adams and Janina Scarlet</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c07_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c08" playOrder="18">
+        <navLabel>
+          <text>8. Lifting the Veil: Effects of Childhood Trauma on the Mind, Body, and Soul | Leandra Parris</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c08_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c09" playOrder="19">
+        <navLabel>
+          <text>9. Hunting for Identity | Melanie Boysen and Wind Goodfriend</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c09_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="p02_bm1" playOrder="20">
+        <navLabel>
+          <text>Morgue File II: Anger | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_p02_bm1_r1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="p03" playOrder="21">
+      <navLabel>
+        <text>Part III: Secrets and Lies</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_p03_r1.xhtml#p03"/>
+      <navPoint class="chapter" id="c10" playOrder="22">
+        <navLabel>
+          <text>10. Bro Moments: Communication between Men | Billy San Juan and Paul VanPortfliet</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c10_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c11" playOrder="23">
+        <navLabel>
+          <text>11. The Family Addiction: Saving People, Hunting Things | Justine Mastin and William Blake Erickson</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c11_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c12" playOrder="24">
+        <navLabel>
+          <text>12. Crossroads and a River of Crap: How Killing Affects Those Who Kill | Stephan Schaffrath and Colt J. Blunt</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c12_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c13" playOrder="25">
+        <navLabel>
+          <text>13. Making a Deal with the Demon: Having Emotions Means Having Your Soul | Janina Scarlet and Jenna Busch</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c13_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="p03_bm1" playOrder="26">
+        <navLabel>
+          <text>Morgue File III: Bargaining | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_p03_bm1_r1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="p04" playOrder="27">
+      <navLabel>
+        <text>Part IV: Above and Below</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_p04_r1.xhtml"/>
+      <navPoint class="chapter" id="c14" playOrder="28">
+        <navLabel>
+          <text>14. Personal Purgatories, Mental Illness, and a Manual of Lore | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c14_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c15" playOrder="29">
+        <navLabel>
+          <text>15. Going Through Hell: How Torture Affects the Tormentor and the Tormented | Justine Mastin and Colt J. Blunt</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c15_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c16" playOrder="30">
+        <navLabel>
+          <text>16. From Heaven to Hell: An Examination of Leadership Style | Jennifer Bonds-Raacke and John Raacke</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c16_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c17" playOrder="31">
+        <navLabel>
+          <text>17. The Hero’s Road Trip | Larisa A. Garski and Justine Mastin</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c17_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="p04_bm1" playOrder="32">
+        <navLabel>
+          <text>Morgue File IV: Depression | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_p04_bm1_r1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="p05" playOrder="33">
+      <navLabel>
+        <text>Part V: Fact and Fantasy</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_p05_r1.xhtml#p05"/>
+      <navPoint class="chapter" id="c18" playOrder="34">
+        <navLabel>
+          <text>18. Cognitive Biases: Sometimes Seeing Isn’t Believing | Erin Currie</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c18_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c19" playOrder="35">
+        <navLabel>
+          <text>19. Wild Folklore: Driving Through Normal with “Two Boys, an Old Drunk, and a Fallen Angel” | J. Scott Jordan</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c19_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c20" playOrder="36">
+        <navLabel>
+          <text>20. Natural Supernaturalism: Why Believe in Magic and Monsters? | Eric D. Wesselmann and James S. Nairne</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c20_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="c21" playOrder="37">
+        <navLabel>
+          <text>21. The Message is in the Music: The Psychological Impact of Music in Supernatural | Susan Nylander, Amanda Taylor, and Lynn S. Zubernis</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_c21_r1.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="p05_bm1" playOrder="38">
+        <navLabel>
+          <text>Morgue File V: Acceptance | Travis Langley</text>
+        </navLabel>
+        <content src="Text/9781454926627_epub_p05_bm1_r1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="bm1" playOrder="39">
+      <navLabel>
+        <text>Final Word: Peace | Travis Langley</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_bm1_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="ata" playOrder="40">
+      <navLabel>
+        <text>About the Editor</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_ata_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="bm2" playOrder="41">
+      <navLabel>
+        <text>About the Co-Editor</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_bm2_r1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="bm3" playOrder="42">
+      <navLabel>
+        <text>About the Contributors</text>
+      </navLabel>
+      <content src="Text/9781454926627_epub_bm3_r1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
